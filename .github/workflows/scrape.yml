@@ -1,0 +1,30 @@
+name: Scrape and transform data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 * * * *"
+
+permissions:
+  contents: "write"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Fetch
+        run: |
+          curl https://ukrepeater.net/csvcreate4.php > packetlist.csv
+      - name: Transform
+        run: |
+          echo "Doing nothing yet"
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Automation"
+          git config user.email "github-action@example.invalid"
+          git add --all
+          git commit --message "Data update: $(date -u)" || exit 0
+          git push
