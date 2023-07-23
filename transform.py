@@ -49,7 +49,7 @@ def transform(infile, outfile):
     }
 
     with open(outfile, "w") as jsonfile:
-        json.dump(geo, jsonfile)
+        json.dump(geo, jsonfile, indent="\t")
 
     print(f"Written GeoJSON to {outfile}")
 
