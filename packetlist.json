@@ -1145,6 +1145,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-2.6250000000000004,
+					51.8125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NCD",
+				"keeper": "M0ZEN",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "SO5710",
+				"maidenhead": "IO81QT"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-0.12500000000000008,
 					51.3125
 				],
