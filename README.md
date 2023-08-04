@@ -6,6 +6,9 @@ publishes CSV files of assorted registrations at https://ukrepeater.net/csvfiles
 This repository uses GitHub Actions to scrape and record these,
 and transform them into [GeoJSON](https://geojson.org/) for convenience.
 
+See the data in map form at https://github.com/doismellburning/packet-map/ / https://doismellburning.github.io/packet-map/etcc-packet-map.html,
+or copy-paste it into https://geojson.io/ for exploration.
+
 # Notes
 
 * Scraping inspired by https://simonwillison.net/2020/Oct/9/git-scraping/
