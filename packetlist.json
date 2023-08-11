@@ -505,6 +505,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-0.5416666666666666,
+					53.1875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LCN",
+				"keeper": "G7RUP",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "V",
+				"region": "CEN",
+				"ngr": "SK9668",
+				"maidenhead": "IO93RE"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.0,
 					54.5
 				],
