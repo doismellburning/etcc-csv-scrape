@@ -625,6 +625,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.3749999999999998,
+					52.85416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NWL",
+				"keeper": "G1ZEK",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "V",
+				"region": "CEN",
+				"ngr": "SK4427",
+				"maidenhead": "IO92HU"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.0,
 					51.5
 				],
