@@ -2365,26 +2365,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					57.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAR",
-				"keeper": "MM0ROR",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NJ9008",
-				"maidenhead": "IO87"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.9583333333333335,
 					57.145833333333336
 				],
