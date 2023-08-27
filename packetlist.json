@@ -2845,26 +2845,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.5416666666666665,
-					49.4375
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UGU",
-				"keeper": "MU0WLV",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "IN8906",
-				"maidenhead": "IN89RK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.625,
 					52.5625
 				],
