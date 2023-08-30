@@ -945,26 +945,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.4583333333333335,
-					53.520833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7YBC",
-				"keeper": "G6YBC",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SD6702",
-				"maidenhead": "IO83SM"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.291666666666667,
 					56.3125
 				],
