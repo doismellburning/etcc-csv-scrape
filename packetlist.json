@@ -1686,6 +1686,26 @@
 			"geometry": {
 				"coordinates": [
 					-3.0,
+					52.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NLD",
+				"keeper": "G1MAW",
+				"band": "70CM",
+				"frequency": "439.812500",
+				"polarisation": "V",
+				"region": "WM",
+				"ngr": "SO6077",
+				"maidenhead": "IO82"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-3.0,
 					55.5
 				],
 				"type": "Point"
@@ -4359,6 +4379,26 @@
 				"region": "SCOT",
 				"ngr": "NS7380",
 				"maidenhead": "IO75XX"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-0.5416666666666666,
+					51.22916666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VO",
+				"keeper": "M0REQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "TQ0047",
+				"maidenhead": "IO91RF"
 			}
 		},
 		{
