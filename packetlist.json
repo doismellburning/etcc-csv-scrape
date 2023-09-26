@@ -4306,26 +4306,6 @@
 			"geometry": {
 				"coordinates": [
 					-3.0,
-					53.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VK",
-				"keeper": "G3CWI",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SJ8775",
-				"maidenhead": "IO83"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
 					55.5
 				],
 				"type": "Point"
