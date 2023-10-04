@@ -93,66 +93,6 @@
 			"properties": {
 				"callsign": "GB7CIP",
 				"keeper": "G4APL",
-				"band": "70CM",
-				"frequency": "439.950000",
-				"polarisation": "H",
-				"region": "SE",
-				"ngr": "TQ3357",
-				"maidenhead": "IO91WH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.12500000000000008,
-					51.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CIP",
-				"keeper": "G4APL",
-				"band": "70CM",
-				"frequency": "433.625000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ3357",
-				"maidenhead": "IO91WH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.12500000000000008,
-					51.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CIP",
-				"keeper": "G4APL",
-				"band": "70CM",
-				"frequency": "432.675000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ3357",
-				"maidenhead": "IO91WH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.12500000000000008,
-					51.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CIP",
-				"keeper": "G4APL",
 				"band": "15M",
 				"frequency": "21.098000",
 				"polarisation": "H",
@@ -215,26 +155,6 @@
 				"keeper": "G4APL",
 				"band": "20M",
 				"frequency": "14.109100",
-				"polarisation": "H",
-				"region": "SE",
-				"ngr": "TQ3357",
-				"maidenhead": "IO91WH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.12500000000000008,
-					51.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CIP",
-				"keeper": "G4APL",
-				"band": "15M",
-				"frequency": "21.080000",
 				"polarisation": "H",
 				"region": "SE",
 				"ngr": "TQ3357",
@@ -1419,26 +1339,6 @@
 				"region": "SW",
 				"ngr": "SO5710",
 				"maidenhead": "IO81QT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.12500000000000008,
-					51.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NCR",
-				"keeper": "G4APL",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ3357",
-				"maidenhead": "IO91WH"
 			}
 		},
 		{
