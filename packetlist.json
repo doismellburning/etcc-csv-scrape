@@ -5,6 +5,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-4.375,
+					55.770833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AUG",
+				"keeper": "GM5AUG",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "V",
+				"region": "SCOT",
+				"ngr": "NS5355",
+				"maidenhead": "IO75TS"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-2.5416666666666665,
 					55.47916666666667
 				],
