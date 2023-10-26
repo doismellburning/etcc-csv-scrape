@@ -773,6 +773,26 @@
 			"properties": {
 				"callsign": "GB7NED",
 				"keeper": "G4EKM",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "V",
+				"region": "NOR",
+				"ngr": "NZ3554",
+				"maidenhead": "IO94GV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-1.4583333333333333,
+					54.895833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NED",
+				"keeper": "G4EKM",
 				"band": "OTHER",
 				"frequency": "5675.000000",
 				"polarisation": "H",
