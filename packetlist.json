@@ -3885,26 +3885,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.875,
-					51.145833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7USB",
-				"keeper": "G0PHO",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TR0341",
-				"maidenhead": "JO01KD"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-4.291666666666666,
 					55.895833333333336
 				],
