@@ -25,7 +25,7 @@ jobs:
           curl https://ukrepeater.net/csvcreate4.php > packetlist.csv
       - name: Transform
         run: |
-          pipenv run python transform.py packetlist.csv packetlist.json
+          make packetlist.json
       - name: Commit and push if changed
         run: |
           git config user.name "Automation"
