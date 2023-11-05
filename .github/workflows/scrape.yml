@@ -22,7 +22,7 @@ jobs:
           pipenv install
       - name: Fetch
         run: |
-          curl https://ukrepeater.net/csvcreate4.php > packetlist.csv
+          make --always-make packetlist.csv
       - name: Transform
         run: |
           make packetlist.json
