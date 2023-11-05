@@ -21,7 +21,14 @@ def transform(infile, outfile):
 
             print(f"Processing {callsign} at {maidenhead}")
 
-            lat, lon = mh.to_location(maidenhead, center=True)
+            try:
+                lat, lon = mh.to_location(maidenhead, center=True)
+            except ValueError as e:
+                # Sometimes the ETCC publish invalid Maidenhead locators
+                # e.g. 2023-11-01 MB7TF was reported at J0O2AL
+                # So let's handle *somewhat* gracefully...
+                print(f"Error parsing {callsign}'s Maidenhead locator ({maidenhead}): {e}")
+                lat, lon = 0, 0
 
             feature = {
                 "type": "Feature",

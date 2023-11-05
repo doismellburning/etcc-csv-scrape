@@ -16,14 +16,16 @@ jobs:
         uses: actions/checkout@v3
       - name: Python
         uses: actions/setup-python@v4
-      - name: Fetch
-        run: |
-          curl https://ukrepeater.net/csvcreate4.php > packetlist.csv
-      - name: Transform
+      - name: Python setup
         run: |
           pip install pipenv
           pipenv install
-          pipenv run python transform.py packetlist.csv packetlist.json
+      - name: Fetch
+        run: |
+          make --always-make packetlist.csv
+      - name: Transform
+        run: |
+          make packetlist.json
       - name: Commit and push if changed
         run: |
           git config user.name "Automation"
