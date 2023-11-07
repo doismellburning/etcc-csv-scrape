@@ -1253,6 +1253,26 @@
 			"properties": {
 				"callsign": "GB7WSM",
 				"keeper": "G0SPH",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "V",
+				"region": "NOR",
+				"ngr": "SJ6566",
+				"maidenhead": "IO83RE"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-2.5416666666666665,
+					53.1875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WSM",
+				"keeper": "G0SPH",
 				"band": "70CM",
 				"frequency": "432.650000",
 				"polarisation": "V",
