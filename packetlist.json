@@ -2525,26 +2525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.6250000000000001,
-					51.8125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7RTR",
-				"keeper": "M7SMI",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SP9211",
-				"maidenhead": "IO91QT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.0,
 					51.5
 				],
