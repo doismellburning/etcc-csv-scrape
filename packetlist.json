@@ -1016,7 +1016,7 @@
 				"band": "2M",
 				"frequency": "144.950000",
 				"polarisation": "V",
-				"region": "SE",
+				"region": "SW",
 				"ngr": "SU6772",
 				"maidenhead": "IO91LK"
 			}
@@ -1056,7 +1056,7 @@
 				"band": "70CM",
 				"frequency": "432.625000",
 				"polarisation": "V",
-				"region": "SE",
+				"region": "SW",
 				"ngr": "SU6772",
 				"maidenhead": "IO91LK"
 			}
