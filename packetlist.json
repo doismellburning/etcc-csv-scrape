@@ -73,6 +73,26 @@
 			"properties": {
 				"callsign": "GB7BED",
 				"keeper": "G7UOD",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "V",
+				"region": "SE",
+				"ngr": "TL0249",
+				"maidenhead": "IO92RD"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-0.5416666666666666,
+					52.145833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BED",
+				"keeper": "G7UOD",
 				"band": "2M",
 				"frequency": "144.950000",
 				"polarisation": "V",
