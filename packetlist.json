@@ -3105,6 +3105,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-0.8750000000000001,
+					53.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UE",
+				"keeper": "M0HOM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "V",
+				"region": "NOR",
+				"ngr": "SE7408",
+				"maidenhead": "IO93NN"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-0.9583333333333334,
 					53.60416666666667
 				],
