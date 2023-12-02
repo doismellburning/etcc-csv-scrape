@@ -2445,6 +2445,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.0,
+					52.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ROC",
+				"keeper": "M0LRV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "V",
+				"region": "CEN",
+				"ngr": "SK8509",
+				"maidenhead": "IO92"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-1.9583333333333333,
 					53.895833333333336
 				],
