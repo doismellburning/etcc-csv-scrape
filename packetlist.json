@@ -4365,46 +4365,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.0,
-					54.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UX",
-				"keeper": "G4MSF",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NZ2949",
-				"maidenhead": "IO94"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.0,
-					54.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UXX",
-				"keeper": "G4MSF",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NZ2961",
-				"maidenhead": "IO94"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					0.20833333333333331,
 					50.97916666666667
 				],
