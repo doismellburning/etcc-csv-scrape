@@ -2025,6 +2025,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "SU0959",
+				"maidenhead": "IO91"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.0,
 					55.5
 				],
