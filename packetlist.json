@@ -2265,6 +2265,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-2.3750000000000004,
+					52.020833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PMF",
+				"keeper": "M0NXN",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "V",
+				"region": "WM",
+				"ngr": "SO7337",
+				"maidenhead": "IO82TA"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					1.2916666666666667,
 					52.0625
 				],
