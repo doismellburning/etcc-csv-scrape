@@ -1765,26 +1765,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.37500000000000006,
-					51.85416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NHA",
-				"keeper": "G7HMV",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL1317",
-				"maidenhead": "IO91TU"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					55.5
 				],
@@ -3365,8 +3345,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.9583333333333333,
-					53.4375
+					-1.0,
+					53.5
 				],
 				"type": "Point"
 			},
@@ -3378,7 +3358,7 @@
 				"polarisation": "V",
 				"region": "NOR",
 				"ngr": "SK0193",
-				"maidenhead": "IO93AK"
+				"maidenhead": "IO93"
 			}
 		},
 		{
