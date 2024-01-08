@@ -3365,26 +3365,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.7083333333333334,
-					52.895833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UGR",
-				"keeper": "M0SDM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SK8935",
-				"maidenhead": "IO92PV"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.625,
 					52.5625
 				],
