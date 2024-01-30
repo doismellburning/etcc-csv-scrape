@@ -2113,8 +2113,48 @@
 			"properties": {
 				"callsign": "MB7NSH",
 				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "SU1176",
+				"maidenhead": "IO91"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-1.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSH",
+				"keeper": "G4WQG",
 				"band": "6M",
 				"frequency": "50.650000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "SU1176",
+				"maidenhead": "IO91"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-1.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSH",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "430.200000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "SU1176",
