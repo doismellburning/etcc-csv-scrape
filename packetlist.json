@@ -796,7 +796,7 @@
 				"band": "2M",
 				"frequency": "144.937500",
 				"polarisation": "V",
-				"region": "SW",
+				"region": "SE",
 				"ngr": "SP8541",
 				"maidenhead": "IO92OB"
 			}
@@ -3876,7 +3876,7 @@
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "V",
-				"region": "SW",
+				"region": "SE",
 				"ngr": "SP8541",
 				"maidenhead": "IO92PB"
 			}
