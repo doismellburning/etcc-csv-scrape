@@ -4745,26 +4745,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.2916666666666665,
-					50.85416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VM",
-				"keeper": "M0VPN",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST8008",
-				"maidenhead": "IO80UU"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-4.041666666666666,
 					55.97916666666667
 				],
