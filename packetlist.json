@@ -2505,26 +2505,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.125,
-					52.645833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7RBT",
-				"keeper": "2E0TKK",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TF4509",
-				"maidenhead": "JO02BP"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					0.625,
 					51.9375
 				],
@@ -3059,6 +3039,26 @@
 				"region": "SCOT",
 				"ngr": "NF9180",
 				"maidenhead": "IO67JQ"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0.125,
+					52.645833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBT",
+				"keeper": "2E0TKK",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "V",
+				"region": "CEN",
+				"ngr": "TF4509",
+				"maidenhead": "JO02BP"
 			}
 		},
 		{
