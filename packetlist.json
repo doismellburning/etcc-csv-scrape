@@ -4485,26 +4485,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.37500000000000006,
-					54.22916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UWV",
-				"keeper": "M0RWV",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "TA0584",
-				"maidenhead": "IO94TF"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					0.20833333333333331,
 					50.97916666666667
 				],
