@@ -2345,26 +2345,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.6250000000000001,
-					52.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7RRH",
-				"keeper": "M7HJB",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SP9666",
-				"maidenhead": "IO92QH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.9583333333333335,
 					56.10416666666667
 				],
