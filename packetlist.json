@@ -3165,26 +3165,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.625,
-					52.5625
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UGY",
-				"keeper": "M5MSX",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG4803",
-				"maidenhead": "JO02TN"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					0.875,
 					51.895833333333336
 				],
