@@ -1425,26 +1425,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.375,
-					56.020833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NDH",
-				"keeper": "GM5AUG",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NT1583",
-				"maidenhead": "IO86HA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					55.5
 				],
