@@ -2185,26 +2185,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.625,
-					51.9375
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7RHA",
-				"keeper": "M0NAS",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL7930",
-				"maidenhead": "JO01HW"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.7083333333333335,
 					52.3125
 				],
