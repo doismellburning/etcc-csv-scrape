@@ -5,46 +5,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-4.375,
-					55.770833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7AUG",
-				"keeper": "GM5AUG",
-				"band": "OTHER",
-				"frequency": "7.049000",
-				"polarisation": "H",
-				"region": "SCOT",
-				"ngr": "NS5355",
-				"maidenhead": "IO75TS"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-4.375,
-					55.770833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7AUG",
-				"keeper": "GM5AUG",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NS5355",
-				"maidenhead": "IO75TS"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.5416666666666665,
 					55.47916666666667
 				],
@@ -865,26 +825,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7NXT",
-				"keeper": "MW0NXT",
-				"band": "70CM",
-				"frequency": "430.200000",
-				"polarisation": "V",
-				"region": "WM",
-				"ngr": "ST1271",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.4583333333333333,
 					54.8125
 				],
@@ -1319,46 +1259,6 @@
 				"region": "SW",
 				"ngr": "SP3101",
 				"maidenhead": "IO91FR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBH",
-				"keeper": "G4OTJ",
-				"band": "70CM",
-				"frequency": "439.950000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST6360",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBH",
-				"keeper": "G4OTJ",
-				"band": "70CM",
-				"frequency": "430.200000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST6360",
-				"maidenhead": "IO81"
 			}
 		},
 		{
