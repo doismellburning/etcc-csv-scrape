@@ -3505,26 +3505,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.8750000000000004,
-					51.60416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UNE",
-				"keeper": "MW0LGE",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "WM",
-				"ngr": "ST4287",
-				"maidenhead": "IO81NO"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-0.7916666666666666,
 					51.97916666666667
 				],
