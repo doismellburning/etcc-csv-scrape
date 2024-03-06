@@ -3805,26 +3805,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-5.041666666666666,
-					50.395833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UST",
-				"keeper": "G7KFQ",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SW8657",
-				"maidenhead": "IO70LJ"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.4583333333333333,
 					54.895833333333336
 				],
