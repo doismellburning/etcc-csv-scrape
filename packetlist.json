@@ -2365,26 +2365,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.8750000000000004,
-					56.47916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAK",
-				"keeper": "MM0XET",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NO4432",
-				"maidenhead": "IO86NL"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					53.5
 				],
