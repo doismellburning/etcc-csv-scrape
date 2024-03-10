@@ -3545,26 +3545,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.7083333333333333,
-					51.47916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UR",
-				"keeper": "G0UWS",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SU2076",
-				"maidenhead": "IO91DL"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.2916666666666665,
 					55.270833333333336
 				],
