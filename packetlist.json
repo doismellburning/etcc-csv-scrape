@@ -2105,46 +2105,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.0416666666666667,
-					51.8125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7TV",
-				"keeper": "G0MBA",
-				"band": "70CM",
-				"frequency": "432.525000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TM0815",
-				"maidenhead": "JO01MT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					1.0416666666666667,
-					51.8125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7TV",
-				"keeper": "G0MBA",
-				"band": "2M",
-				"frequency": "144.500000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TM0815",
-				"maidenhead": "JO01MT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					52.5
 				],
