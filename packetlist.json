@@ -2905,26 +2905,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.4583333333333333,
-					51.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UK",
-				"keeper": "G7HMV",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL0804",
-				"maidenhead": "IO91SR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.0,
 					51.5
 				],
@@ -3279,26 +3259,6 @@
 				"region": "CEN",
 				"ngr": "TG3112",
 				"maidenhead": "JO02QP"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-0.7916666666666666,
-					51.97916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UNL",
-				"keeper": "G7PKF",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "SP8431",
-				"maidenhead": "IO91OX"
 			}
 		},
 		{
