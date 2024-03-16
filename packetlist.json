@@ -1385,26 +1385,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					54.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NLA",
-				"keeper": "G1OHH",
-				"band": "6M",
-				"frequency": "50.650000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SD4662",
-				"maidenhead": "IO84"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-0.6250000000000001,
 					51.895833333333336
 				],
