@@ -705,26 +705,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.1250000000000004,
-					57.145833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7NRT",
-				"keeper": "GM0NRT",
-				"band": "70CM",
-				"frequency": "432.625000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NJ9204",
-				"maidenhead": "IO87WD"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.3749999999999998,
 					52.85416666666667
 				],
