@@ -3605,26 +3605,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.7083333333333333,
-					51.770833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UWM",
-				"keeper": "M1DOZ",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL8613",
-				"maidenhead": "JO01IS"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.2916666666666667,
 					53.35416666666667
 				],
