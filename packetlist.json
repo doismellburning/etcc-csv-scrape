@@ -485,26 +485,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7IDD",
-				"keeper": "M0IDD",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ2639",
-				"maidenhead": "IO91"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-0.5416666666666666,
 					51.6875
 				],
