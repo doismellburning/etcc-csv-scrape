@@ -905,26 +905,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.291666666666667,
-					56.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7YEW",
-				"keeper": "GM3YEW",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NO1816",
-				"maidenhead": "IO86IH"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.375,
 					52.645833333333336
 				],
@@ -959,86 +939,6 @@
 				"region": "CEN",
 				"ngr": "TG1000",
 				"maidenhead": "JO02NN"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.5416666666666665,
-					51.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBA",
-				"keeper": "G0AOZ",
-				"band": "6M",
-				"frequency": "50.650000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SP3101",
-				"maidenhead": "IO91FR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.5416666666666665,
-					51.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBA",
-				"keeper": "G0AOZ",
-				"band": "70CM",
-				"frequency": "430.200000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SP3101",
-				"maidenhead": "IO91FR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.5416666666666665,
-					51.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBA",
-				"keeper": "G0AOZ",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SP3101",
-				"maidenhead": "IO91FR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.5416666666666665,
-					51.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NBA",
-				"keeper": "G0AOZ",
-				"band": "70CM",
-				"frequency": "432.675000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SP3101",
-				"maidenhead": "IO91FR"
 			}
 		},
 		{
@@ -1099,26 +999,6 @@
 				"region": "SCOT",
 				"ngr": "NT7354",
 				"maidenhead": "IO85"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.4583333333333333,
-					54.9375
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NED",
-				"keeper": "G4EKM",
-				"band": "OTHER",
-				"frequency": "5675.000000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NZ3560",
-				"maidenhead": "IO94GW"
 			}
 		},
 		{
@@ -2485,26 +2365,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.0,
-					52.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UGR",
-				"keeper": "M0SDM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SK8836",
-				"maidenhead": "IO92"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.625,
 					54.0625
 				],
@@ -2885,26 +2745,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					53.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UMD",
-				"keeper": "GW0TQM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "H",
-				"region": "NOR",
-				"ngr": "SJ2364",
-				"maidenhead": "IO83"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.625,
 					51.10416666666667
 				],
@@ -3199,26 +3039,6 @@
 				"region": "CEN",
 				"ngr": "SK6015",
 				"maidenhead": "IO92KR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.4583333333333333,
-					54.895833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7USU",
-				"keeper": "G4EKM",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NZ3554",
-				"maidenhead": "IO94GV"
 			}
 		},
 		{
