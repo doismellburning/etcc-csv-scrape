@@ -3045,26 +3045,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.625,
-					53.145833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UWS",
-				"keeper": "M0JKS",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SK2460",
-				"maidenhead": "IO93ED"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-0.37500000000000006,
 					52.47916666666667
 				],
