@@ -845,26 +845,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.375,
-					52.645833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7ZAH",
-				"keeper": "M0ZAH",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG2609",
-				"maidenhead": "JO02QP"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.125,
 					52.5625
 				],
