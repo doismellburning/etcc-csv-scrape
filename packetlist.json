@@ -1585,26 +1585,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7RVS",
-				"keeper": "GW0VFF",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "WM",
-				"ngr": "SN6800",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					0.041666666666666664,
 					52.47916666666667
 				],
@@ -3019,26 +2999,6 @@
 				"region": "NOR",
 				"ngr": "SK4982",
 				"maidenhead": "IO93II"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.625,
-					53.145833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UWS",
-				"keeper": "M0JKS",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SK2460",
-				"maidenhead": "IO93ED"
 			}
 		},
 		{
