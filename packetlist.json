@@ -2045,26 +2045,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.9583333333333334,
-					53.60416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UEI",
-				"keeper": "M0GIW",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SE6812",
-				"maidenhead": "IO93MO"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.0,
 					54.5
 				],
