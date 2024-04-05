@@ -1845,26 +1845,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.4583333333333335,
-					54.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UCU",
-				"keeper": "M0LLC",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NY0533",
-				"maidenhead": "IO84GQ"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.4583333333333335,
 					53.10416666666667
 				],
