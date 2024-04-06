@@ -2085,26 +2085,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.625,
-					51.1875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UIK",
-				"keeper": "G4ZXI",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ8344",
-				"maidenhead": "JO01HE"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-7.375,
 					57.10416666666667
 				],
