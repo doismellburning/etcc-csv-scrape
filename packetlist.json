@@ -905,26 +905,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.041666666666666664,
-					51.645833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NGP",
-				"keeper": "M0LTE",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ3896",
-				"maidenhead": "JO01AP"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-2.5416666666666665,
 					55.47916666666667
 				],
