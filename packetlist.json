@@ -1785,26 +1785,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.4583333333333335,
-					53.10416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UCW",
-				"keeper": "G7OMN",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SJ6754",
-				"maidenhead": "IO83SC"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-4.541666666666666,
 					55.9375
 				],
