@@ -1493,26 +1493,6 @@
 			"properties": {
 				"callsign": "MB7UAH",
 				"keeper": "GM7GDE",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NS6052",
-				"maidenhead": "IO75VS"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-4.208333333333333,
-					55.770833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAH",
-				"keeper": "GM7GDE",
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "V",
