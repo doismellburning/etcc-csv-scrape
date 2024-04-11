@@ -5,26 +5,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.5416666666666665,
-					55.47916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7BDX",
-				"keeper": "GM4UPX",
-				"band": "4M",
-				"frequency": "70.487500",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NT6520",
-				"maidenhead": "IO85RL"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-0.5416666666666666,
 					52.145833333333336
 				],
@@ -479,26 +459,6 @@
 				"region": "SE",
 				"ngr": "SU9997",
 				"maidenhead": "IO91RQ"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-2.5416666666666665,
-					55.47916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7JED",
-				"keeper": "GM4UPX",
-				"band": "70CM",
-				"frequency": "433.625000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NT6520",
-				"maidenhead": "IO85RL"
 			}
 		},
 		{
