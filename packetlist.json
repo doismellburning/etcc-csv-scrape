@@ -1525,26 +1525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UBW",
-				"keeper": "M0HKG",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TM0019",
-				"maidenhead": "JO01"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.625,
 					51.770833333333336
 				],
