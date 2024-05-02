@@ -2085,26 +2085,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.2916666666666667,
-					52.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7US",
-				"keeper": "M0TUM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG2415",
-				"maidenhead": "JO02PQ"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-4.291666666666666,
 					55.895833333333336
 				],
