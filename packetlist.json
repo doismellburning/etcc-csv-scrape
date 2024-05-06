@@ -73,26 +73,6 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "70CM",
-				"frequency": "439.950000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST8026",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7GDT",
-				"keeper": "G7NVQ",
 				"band": "2M",
 				"frequency": "144.937500",
 				"polarisation": "H",
@@ -115,6 +95,26 @@
 				"keeper": "G7NVQ",
 				"band": "6M",
 				"frequency": "50.650000",
+				"polarisation": "V",
+				"region": "SW",
+				"ngr": "ST8026",
+				"maidenhead": "IO81"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-3.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7GDT",
+				"keeper": "G7NVQ",
+				"band": "70CM",
+				"frequency": "439.950000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "ST8026",
@@ -333,8 +333,8 @@
 			"properties": {
 				"callsign": "GB7WOK",
 				"keeper": "G2DD",
-				"band": "2M",
-				"frequency": "144.925000",
+				"band": "70CM",
+				"frequency": "432.625000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "SU8267",
@@ -353,8 +353,8 @@
 			"properties": {
 				"callsign": "GB7WOK",
 				"keeper": "G2DD",
-				"band": "70CM",
-				"frequency": "432.625000",
+				"band": "2M",
+				"frequency": "144.925000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "SU8267",
@@ -1019,26 +1019,6 @@
 				"region": "SW",
 				"ngr": "SP0302",
 				"maidenhead": "IO91AR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-2.4583333333333335,
-					53.10416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UCW",
-				"keeper": "G7OMN",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SJ6754",
-				"maidenhead": "IO83SC"
 			}
 		},
 		{
