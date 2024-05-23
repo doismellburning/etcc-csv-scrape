@@ -445,26 +445,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.1249999999999998,
-					52.270833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NXX",
-				"keeper": "G8KHF",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "SP5763",
-				"maidenhead": "IO92KG"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-7.291666666666666,
 					57.5625
 				],
