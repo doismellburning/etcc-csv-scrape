@@ -45,26 +45,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.041666666666667,
-					53.8125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7ESC",
-				"keeper": "G0WDA",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SD3135",
-				"maidenhead": "IO83LT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					51.5
 				],
@@ -93,9 +73,9 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "6M",
-				"frequency": "50.650000",
-				"polarisation": "V",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "H",
 				"region": "SW",
 				"ngr": "ST8026",
 				"maidenhead": "IO81"
@@ -113,9 +93,9 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "H",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "V",
 				"region": "SW",
 				"ngr": "ST8026",
 				"maidenhead": "IO81"
@@ -265,20 +245,20 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.7916666666666666,
-					52.0625
+					-1.0,
+					51.5
 				],
 				"type": "Point"
 			},
 			"properties": {
-				"callsign": "MB7NMK",
-				"keeper": "M0UKF",
-				"band": "2M",
-				"frequency": "144.950000",
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "70CM",
+				"frequency": "430.200000",
 				"polarisation": "V",
-				"region": "SE",
-				"ngr": "SP8539",
-				"maidenhead": "IO92OB"
+				"region": "SW",
+				"ngr": "SU0959",
+				"maidenhead": "IO91"
 			}
 		},
 		{
@@ -305,26 +285,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-1.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NPW",
-				"keeper": "M0AHN",
-				"band": "70CM",
-				"frequency": "430.200000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SU0959",
-				"maidenhead": "IO91"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.2083333333333333,
 					52.395833333333336
 				],
@@ -339,26 +299,6 @@
 				"region": "CEN",
 				"ngr": "SP5177",
 				"maidenhead": "IO92JJ"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					55.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NSB",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "432.650000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NT4436",
-				"maidenhead": "IO85"
 			}
 		},
 		{
@@ -585,26 +525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.2916666666666665,
-					57.10416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAB",
-				"keeper": "GM4EMX",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NJ8202",
-				"maidenhead": "IO87UC"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.0,
 					57.5
 				],
@@ -799,26 +719,6 @@
 				"region": "SCOT",
 				"ngr": "NS4276",
 				"maidenhead": "IO75RW"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UDA",
-				"keeper": "G7NVQ",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST8026",
-				"maidenhead": "IO81"
 			}
 		},
 		{
@@ -1219,26 +1119,6 @@
 				"region": "SCOT",
 				"ngr": "NF8164",
 				"maidenhead": "IO67HN"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UNW",
-				"keeper": "G7IDB",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TQ3472",
-				"maidenhead": "IO91"
 			}
 		},
 		{
