@@ -33,8 +33,8 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "70CM",
-				"frequency": "439.950000",
+				"band": "6M",
+				"frequency": "50.650000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "ST8026",
@@ -53,8 +53,8 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "6M",
-				"frequency": "50.650000",
+				"band": "70CM",
+				"frequency": "439.950000",
 				"polarisation": "V",
 				"region": "SW",
 				"ngr": "ST8026",
@@ -479,26 +479,6 @@
 				"region": "SE",
 				"ngr": "TR2135",
 				"maidenhead": "JO01NB"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UG",
-				"keeper": "G7GMN",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "SU7243",
-				"maidenhead": "IO91"
 			}
 		},
 		{
