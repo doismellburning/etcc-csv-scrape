@@ -33,26 +33,6 @@
 			"properties": {
 				"callsign": "GB7GDT",
 				"keeper": "G7NVQ",
-				"band": "6M",
-				"frequency": "50.650000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST8026",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7GDT",
-				"keeper": "G7NVQ",
 				"band": "70CM",
 				"frequency": "439.950000",
 				"polarisation": "V",
@@ -76,6 +56,26 @@
 				"band": "2M",
 				"frequency": "144.937500",
 				"polarisation": "H",
+				"region": "SW",
+				"ngr": "ST8026",
+				"maidenhead": "IO81"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-3.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7GDT",
+				"keeper": "G7NVQ",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "V",
 				"region": "SW",
 				"ngr": "ST8026",
 				"maidenhead": "IO81"
@@ -605,26 +605,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-3.0,
-					51.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UVV",
-				"keeper": "G7FBD",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST6570",
-				"maidenhead": "IO81"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-3.375,
 					56.60416666666667
 				],
@@ -739,46 +719,6 @@
 				"region": "WM",
 				"ngr": "SN3625",
 				"maidenhead": "IO71"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-1.7083333333333333,
-					54.72916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VU",
-				"keeper": "G0OCB",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "NZ1637",
-				"maidenhead": "IO94DR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-2.3750000000000004,
-					51.4375
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VV",
-				"keeper": "G7FBD",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST7170",
-				"maidenhead": "IO81TK"
 			}
 		},
 		{
