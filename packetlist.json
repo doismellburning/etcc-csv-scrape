@@ -720,26 +720,6 @@
 				"ngr": "SN3625",
 				"maidenhead": "IO71"
 			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-2.1250000000000004,
-					57.145833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VX",
-				"keeper": "MM0ROR",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NJ9308",
-				"maidenhead": "IO87WD"
-			}
 		}
 	]
 }
