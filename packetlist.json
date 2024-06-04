@@ -205,26 +205,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.041666666666666595,
-					52.020833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UC",
-				"keeper": "M0ZPU",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL3736",
-				"maidenhead": "IO92XA"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.9583333333333333,
 					51.72916666666667
 				],
@@ -245,26 +225,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					1.125,
-					52.8125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UI",
-				"keeper": "M0TUM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG1130",
-				"maidenhead": "JO02NT"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					1.2916666666666667,
 					52.4375
 				],
@@ -279,66 +239,6 @@
 				"region": "CEN",
 				"ngr": "TM2289",
 				"maidenhead": "JO02PK"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					0.041666666666666664,
-					52.22916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UM",
-				"keeper": "M0ZPU",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SE",
-				"ngr": "TL3959",
-				"maidenhead": "JO02AF"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					1.2083333333333335,
-					52.770833333333336
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UN",
-				"keeper": "M0TUM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG1826",
-				"maidenhead": "JO02OS"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					1.2083333333333335,
-					52.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UTM",
-				"keeper": "M0TUM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TG1514",
-				"maidenhead": "JO02OQ"
 			}
 		},
 		{
