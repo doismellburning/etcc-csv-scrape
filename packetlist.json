@@ -6,26 +6,6 @@
 			"geometry": {
 				"coordinates": [
 					-3.0,
-					53.5
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7ELE",
-				"keeper": "M5MPC",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "V",
-				"region": "NOR",
-				"ngr": "SD7301",
-				"maidenhead": "IO83"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-3.0,
 					52.5
 				],
 				"type": "Point"
@@ -65,26 +45,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-2.2916666666666665,
-					50.85416666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NSC",
-				"keeper": "G0NZO",
-				"band": "70CM",
-				"frequency": "439.950000",
-				"polarisation": "V",
-				"region": "SW",
-				"ngr": "ST7908",
-				"maidenhead": "IO80UU"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-1.9583333333333333,
 					51.72916666666667
 				],
@@ -99,26 +59,6 @@
 				"region": "SW",
 				"ngr": "SP0302",
 				"maidenhead": "IO91AR"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					1.2916666666666667,
-					52.4375
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UKS",
-				"keeper": "M0UKS",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "CEN",
-				"ngr": "TM2289",
-				"maidenhead": "JO02PK"
 			}
 		},
 		{
