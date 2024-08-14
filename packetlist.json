@@ -1,25 +1,4 @@
 {
 	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					-4.041666666666666,
-					55.97916666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VN",
-				"keeper": "GM8HBY",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "V",
-				"region": "SCOT",
-				"ngr": "NS7380",
-				"maidenhead": "IO75XX"
-			}
-		}
-	]
+	"features": []
 }
