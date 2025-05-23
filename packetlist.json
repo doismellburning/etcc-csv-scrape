@@ -1,4 +1,8025 @@
 {
 	"type": "FeatureCollection",
-	"features": []
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "Callsign",
+				"keeper": "Sysop",
+				"band": "Band",
+				"frequency": "TX",
+				"polarisation": "Type",
+				"region": "Where",
+				"ngr": "Region",
+				"maidenhead": "NGR"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					203.375,
+					77.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "2E1GW",
+				"keeper": "2E1GW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SOUTHGATE  LONDON",
+				"ngr": "SE",
+				"maidenhead": "TQ2893"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.375,
+					160.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "G0PEB",
+				"keeper": "G0PEB",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "EAST COWES",
+				"ngr": "SW",
+				"maidenhead": "SZ5193"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.20833333333331,
+					50.395833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "G1ZRN",
+				"keeper": "G1ZRN",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "STOURPORT ON SEVERN",
+				"ngr": "CEN",
+				"maidenhead": "SO8172"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.70833333333331,
+					3.354166666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "G4BVE",
+				"keeper": "G4BVE",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "WELSHPOOL",
+				"ngr": "WM",
+				"maidenhead": "SJ2411"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.95833333333331,
+					78.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "G5BSD",
+				"keeper": "G5BSD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SOUTH NUTFIELD",
+				"ngr": "SE",
+				"maidenhead": "TQ2948"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.375,
+					166.35416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AAX",
+				"keeper": "M0JQQ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "ELLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2791"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.04166666666667,
+					92.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AUG",
+				"keeper": "GM5AUG",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PX",
+				"region": "NEWTON MEARNS",
+				"ngr": "SCOT",
+				"maidenhead": "NS5355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.04166666666667,
+					92.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AUG",
+				"keeper": "GM5AUG",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "NEWTON MEARNS",
+				"ngr": "SCOT",
+				"maidenhead": "NS5355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.04166666666667,
+					92.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AUG",
+				"keeper": "GM5AUG",
+				"band": "40M",
+				"frequency": "7.045740",
+				"polarisation": "PX",
+				"region": "NEWTON MEARNS",
+				"ngr": "SCOT",
+				"maidenhead": "NS5355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.625,
+					115.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BAR",
+				"keeper": "G7RZU",
+				"band": "40M",
+				"frequency": "7.050100",
+				"polarisation": "PX",
+				"region": "BARNHAM",
+				"ngr": "SW",
+				"maidenhead": "SU9604"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "10M",
+				"frequency": "29.250000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					110.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDH",
+				"keeper": "G4WQG",
+				"band": "",
+				"frequency": "28.130000",
+				"polarisation": "PX",
+				"region": "BROAD HINTON",
+				"ngr": "SW",
+				"maidenhead": "SU1176"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					90.79166666666667,
+					104.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BDX",
+				"keeper": "GM4UPX",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PX",
+				"region": "JEDBURGH",
+				"ngr": "SCOT",
+				"maidenhead": "NT6520"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.95833333333331,
+					21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BED",
+				"keeper": "G7UOD",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "BEDFORD",
+				"ngr": "SE",
+				"maidenhead": "TL0249"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.95833333333331,
+					21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BED",
+				"keeper": "G7UOD",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BEDFORD",
+				"ngr": "SE",
+				"maidenhead": "TL0249"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.625,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BEX",
+				"keeper": "G7TAJ",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BEXHILL-ON-SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ7307"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.625,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BEX",
+				"keeper": "G7TAJ",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "BEXHILL-ON-SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ7307"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.625,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BEX",
+				"keeper": "G7TAJ",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "BEXHILL-ON-SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ7307"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.625,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BEX",
+				"keeper": "G7TAJ",
+				"band": "40M",
+				"frequency": "7.050000",
+				"polarisation": "PX",
+				"region": "BEXHILL-ON-SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ7307"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					107.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BKS",
+				"keeper": "MM0UHR",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "EDINBURGH",
+				"ngr": "SCOT",
+				"maidenhead": "NT2868"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BMY",
+				"keeper": "GI3JMC",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "BALLYMONEY",
+				"ngr": "NI",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BMY",
+				"keeper": "GI3JMC",
+				"band": "40M",
+				"frequency": "7.050100",
+				"polarisation": "PX",
+				"region": "BALLYMONEY",
+				"ngr": "NI",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.125,
+					-76.64583333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BPQ",
+				"keeper": "G8BPQ",
+				"band": "40M",
+				"frequency": "7.050500",
+				"polarisation": "PX",
+				"region": "SKIGERSTA",
+				"ngr": "SCOT",
+				"maidenhead": "NB5461"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.125,
+					-76.64583333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BPQ",
+				"keeper": "G8BPQ",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "SKIGERSTA",
+				"ngr": "SCOT",
+				"maidenhead": "NB5461"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.125,
+					113.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BRK",
+				"keeper": "M7OOB",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "BRACKNELL",
+				"ngr": "SW",
+				"maidenhead": "SU8467"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					110.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BSK",
+				"keeper": "2E0HKD",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "BASINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "SU6153"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					110.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BSK",
+				"keeper": "2E0HKD",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "BASINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "SU6153"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					110.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BSK",
+				"keeper": "2E0HKD",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PX",
+				"region": "BASINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "SU6153"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					204.625,
+					69.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BTN",
+				"keeper": "G8WBI",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BRIGHTON",
+				"ngr": "SE",
+				"maidenhead": "TQ3004"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.875,
+					68.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BUK",
+				"keeper": "M1TLK",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BUCKINGHAM",
+				"ngr": "SE",
+				"maidenhead": "SP6934"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "20M",
+				"frequency": "14.096000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "70CM",
+				"frequency": "433.625000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "15M",
+				"frequency": "21.098000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "40M",
+				"frequency": "7.049600",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "10M",
+				"frequency": "28.130000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "20M",
+				"frequency": "14.109100",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "15M",
+				"frequency": "21.080000",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "10M",
+				"frequency": "28.111100",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CIP",
+				"keeper": "G4APL",
+				"band": "10M",
+				"frequency": "18.113100",
+				"polarisation": "PX",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					164.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CNR",
+				"keeper": "M0JQQ",
+				"band": "40M",
+				"frequency": "7.050000",
+				"polarisation": "PX",
+				"region": "CRAMLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2576"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					164.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CNR",
+				"keeper": "M0JQQ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "CRAMLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2576"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					164.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CNR",
+				"keeper": "M0JQQ",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PX",
+				"region": "CRAMLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2576"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					164.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CNR",
+				"keeper": "M0JQQ",
+				"band": "40M",
+				"frequency": "7.052750",
+				"polarisation": "PX",
+				"region": "CRAMLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2576"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					185.29166666666666,
+					59.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7COV",
+				"keeper": "G3ZFR",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "COVENTRY",
+				"ngr": "CEN",
+				"maidenhead": "SP3083"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.79166666666666,
+					95.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7COW",
+				"keeper": "G7VJA",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BIDEFORD",
+				"ngr": "SW",
+				"maidenhead": "SS2624"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.29166666666666,
+					15.354166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CPL",
+				"keeper": "G0SMP",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "CHAPEL EN LE FRITH",
+				"ngr": "NOR",
+				"maidenhead": "SK0681"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.625,
+					2.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CQV",
+				"keeper": "GM0CQV",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "PETERCULTER",
+				"ngr": "SCOT",
+				"maidenhead": "NJ8300"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.625,
+					2.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CQV",
+				"keeper": "GM0CQV",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "PETERCULTER",
+				"ngr": "SCOT",
+				"maidenhead": "NJ8300"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.29166666666666,
+					12.604166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7DIN",
+				"keeper": "M0CRT",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "DINNINGTON",
+				"ngr": "NOR",
+				"maidenhead": "SK5387"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					90.95833333333334,
+					-17.354166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7DNA",
+				"keeper": "GM5DNA",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "INVERNESS",
+				"ngr": "SCOT",
+				"maidenhead": "NH6348"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					209.375,
+					128.64583333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EBN",
+				"keeper": "G6JME",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TV5998"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					209.375,
+					128.64583333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EBN",
+				"keeper": "G6JME",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PX",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TV5998"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.875,
+					13.479166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EHG",
+				"keeper": "M5EHG ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "DERBY",
+				"ngr": "CEN",
+				"maidenhead": "SK3434"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.875,
+					-59.479166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ESC",
+				"keeper": "G0WDA",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "BLACKPOOL",
+				"ngr": "NOR",
+				"maidenhead": "SD3135"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.875,
+					-59.479166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ESC",
+				"keeper": "G0WDA",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "BLACKPOOL",
+				"ngr": "NOR",
+				"maidenhead": "SD3135"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.375,
+					142.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EXE",
+				"keeper": "M0ZZT",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "EXETER",
+				"ngr": "SW",
+				"maidenhead": "SX9393"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.79166666666666,
+					99.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7GDT",
+				"keeper": "G7NVQ",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "GILLINGHAM",
+				"ngr": "SW",
+				"maidenhead": "ST8026"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.79166666666666,
+					99.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7GDT",
+				"keeper": "G7NVQ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "GILLINGHAM",
+				"ngr": "SW",
+				"maidenhead": "ST8026"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.79166666666666,
+					99.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7GDT",
+				"keeper": "G7NVQ",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "GILLINGHAM",
+				"ngr": "SW",
+				"maidenhead": "ST8026"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.79166666666666,
+					77.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HFD",
+				"keeper": "M0KVI",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "HEATHFIELD",
+				"ngr": "SE",
+				"maidenhead": "TQ5820"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.79166666666666,
+					77.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HFD",
+				"keeper": "M0KVI",
+				"band": "40M",
+				"frequency": "7.048500",
+				"polarisation": "PX",
+				"region": "HEATHFIELD",
+				"ngr": "SE",
+				"maidenhead": "TQ5820"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.70833333333334,
+					1.3124999999999998
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HIB",
+				"keeper": "MM0RFN",
+				"band": "40M",
+				"frequency": "7.049000",
+				"polarisation": "PX",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9210"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.70833333333334,
+					1.3124999999999998
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HIB",
+				"keeper": "MM0RFN",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9210"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.79166666666666,
+					95.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HTL",
+				"keeper": "G7VJA",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "BIDEFORD",
+				"ngr": "SW",
+				"maidenhead": "SS2624"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					167.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7IJC",
+				"keeper": "2E0IJC",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "KILLINGWORTH",
+				"ngr": "NOR",
+				"maidenhead": "NZ2870"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.375,
+					163.35416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7IOW",
+				"keeper": "M0NVK",
+				"band": "40M",
+				"frequency": "7.050000",
+				"polarisation": "PX",
+				"region": "PORCHFIELD",
+				"ngr": "SW",
+				"maidenhead": "SZ4491"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.375,
+					163.35416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7IOW",
+				"keeper": "M0NVK",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "ISLE OF WIGHT",
+				"ngr": "SW",
+				"maidenhead": "SZ4491"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.375,
+					163.35416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7IOW",
+				"keeper": "M0NVK",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "PORCHFIELD ",
+				"ngr": "SW",
+				"maidenhead": "SZ4491"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.375,
+					118.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7IPF",
+				"keeper": "G4TNU",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "AMERSHAM",
+				"ngr": "SE",
+				"maidenhead": "SU9997"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					90.79166666666667,
+					104.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7JED",
+				"keeper": "GM4UPX",
+				"band": "70CM",
+				"frequency": "433.625000",
+				"polarisation": "PX",
+				"region": "JEDBURGH",
+				"ngr": "SCOT",
+				"maidenhead": "NT6520"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					199.20833333333331,
+					73.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7JFP",
+				"keeper": "M0JFP",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "STAINES",
+				"ngr": "SE",
+				"maidenhead": "TQ0470"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.20833333333331,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LAN",
+				"keeper": "2E0PHR",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "SLOUGH",
+				"ngr": "SW",
+				"maidenhead": "SU9979"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.20833333333331,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LAN",
+				"keeper": "2E0PHR",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "LANGLEY",
+				"ngr": "SW",
+				"maidenhead": "SU9979"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.125,
+					15.645833333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LCN",
+				"keeper": "G7RUP",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "LINCOLN",
+				"ngr": "CEN",
+				"maidenhead": "SK9668"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					185.29166666666666,
+					9.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LOX",
+				"keeper": "2E0JJI",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "SHEFFIELD",
+				"ngr": "NOR",
+				"maidenhead": "SK3089"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					185.29166666666666,
+					9.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7LOX",
+				"keeper": "2E0JJI",
+				"band": "40M",
+				"frequency": "7.047460",
+				"polarisation": "PX",
+				"region": "SHEFFIELD",
+				"ngr": "NOR",
+				"maidenhead": "SK3089"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.125,
+					-56.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MBC",
+				"keeper": "G0VGS",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "MORECAMBE",
+				"ngr": "NOR",
+				"maidenhead": "SD4464"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.95833333333331,
+					64.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MNK",
+				"keeper": "G0TAI",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "GREAT LINFORD",
+				"ngr": "SE",
+				"maidenhead": "SP8541"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.95833333333331,
+					64.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MNK",
+				"keeper": "G0TAI",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "MILTON KEYNES",
+				"ngr": "SE",
+				"maidenhead": "SP8541"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.125,
+					15.354166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MNS",
+				"keeper": "M0THH",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "MANSFIELD",
+				"ngr": "CEN",
+				"maidenhead": "SK5661"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					206.625,
+					-22.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MSX",
+				"keeper": "M5MSX",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "GREAT YARMOUTH",
+				"ngr": "EA",
+				"maidenhead": "TG4803"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.04166666666666,
+					32.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7MXM",
+				"keeper": "G4GBA",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "STONHAM ASPAL",
+				"ngr": "EA",
+				"maidenhead": "TM1359"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					16.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NAS",
+				"keeper": "G7JJF",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "EAKRING",
+				"ngr": "CEN",
+				"maidenhead": "SK6761"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					102.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NBH",
+				"keeper": "G4OTJ",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "FARMBOROUGH",
+				"ngr": "SW",
+				"maidenhead": "ST6360"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					102.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NBH",
+				"keeper": "G4OTJ",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PX",
+				"region": "FARMBOROUGH",
+				"ngr": "SW",
+				"maidenhead": "ST6360"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					102.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NBH",
+				"keeper": "G4OTJ",
+				"band": "4M",
+				"frequency": "70.337500",
+				"polarisation": "PX",
+				"region": "FARMBOROUGH",
+				"ngr": "SW",
+				"maidenhead": "ST6360"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					102.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NBH",
+				"keeper": "G4OTJ",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "FARMBOROUGH",
+				"ngr": "SW",
+				"maidenhead": "ST6360"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					81.29166666666667,
+					104.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NDH",
+				"keeper": "2M0NHD",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "DALGETY BAY",
+				"ngr": "SCOT",
+				"maidenhead": "NT1583"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					81.29166666666667,
+					104.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NDH",
+				"keeper": "2M0NHD",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "DALGETY BAY",
+				"ngr": "SCOT",
+				"maidenhead": "NT1583"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					85.04166666666667,
+					164.47916666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NED",
+				"keeper": "G4EKM",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "SUNDERLAND",
+				"ngr": "NOR",
+				"maidenhead": "NZ3554"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					85.04166666666667,
+					164.47916666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NED",
+				"keeper": "G4EKM",
+				"band": "6CM",
+				"frequency": "5675.000000",
+				"polarisation": "PX",
+				"region": "SUNDERLAND",
+				"ngr": "NOR",
+				"maidenhead": "NZ3554"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.95833333333331,
+					18.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NOT",
+				"keeper": "G8BPQ",
+				"band": "40M",
+				"frequency": "7.050500",
+				"polarisation": "PX",
+				"region": "NOTTINGHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK5943"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.95833333333331,
+					18.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NOT",
+				"keeper": "G8BPQ",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "NOTTINGHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK5943"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.70833333333331,
+					-29.604166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NPR",
+				"keeper": "2E0DBS",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TG2112"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.625,
+					1.4791666666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NRT",
+				"keeper": "GM0NRT",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9204"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.625,
+					1.4791666666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NRT",
+				"keeper": "GM0NRT",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9204"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.20833333333331,
+					116.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NWD",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PX",
+				"region": "RAMSBURY",
+				"ngr": "SW",
+				"maidenhead": "SU2770"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.20833333333331,
+					116.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NWD",
+				"keeper": "G4WQG",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "RAMSBURY",
+				"ngr": "SW",
+				"maidenhead": "SU2770"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.20833333333331,
+					116.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NWD",
+				"keeper": "G4WQG",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "RAMSBURY",
+				"ngr": "SW",
+				"maidenhead": "SU2770"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					13.604166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NWL",
+				"keeper": "G1ZEK",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "DERBY",
+				"ngr": "CEN",
+				"maidenhead": "SK4427"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					101.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NXT",
+				"keeper": "MW0NXT",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "WENVOE",
+				"ngr": "WM",
+				"maidenhead": "ST1271"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.20833333333331,
+					101.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NXT",
+				"keeper": "MW0NXT",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PX",
+				"region": "WENVOE",
+				"ngr": "WM",
+				"maidenhead": "ST1271"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					84.95833333333334,
+					165.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ODZ",
+				"keeper": "M0ODZ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "HOUGHTON LE SPRING",
+				"ngr": "NOR",
+				"maidenhead": "NZ3646"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.79166666666666,
+					-56.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7OSW",
+				"keeper": "G0BMH",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "OSWALDTWISTLE",
+				"ngr": "NOR",
+				"maidenhead": "SD7427"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.79166666666666,
+					-56.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7OSW",
+				"keeper": "G0BMH",
+				"band": "20M",
+				"frequency": "14.102300",
+				"polarisation": "PX",
+				"region": "OSWALDTWISTLE",
+				"ngr": "NOR",
+				"maidenhead": "SD7427"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.375,
+					109.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7OXF",
+				"keeper": "G6FJI",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "ABINGDON",
+				"ngr": "SW",
+				"maidenhead": "SU5098"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.375,
+					109.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7OXF",
+				"keeper": "G6FJI",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "ABINGDON",
+				"ngr": "SW",
+				"maidenhead": "SU5098"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.375,
+					109.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7OXF",
+				"keeper": "G6FJI",
+				"band": "40M",
+				"frequency": "7.050100",
+				"polarisation": "PX",
+				"region": "ABINGDON",
+				"ngr": "SW",
+				"maidenhead": "SU5098"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.625,
+					95.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7PAK",
+				"keeper": "G7SOJ",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PX",
+				"region": "WEMBWORTHY",
+				"ngr": "SW",
+				"maidenhead": "SS6609"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.875,
+					-21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7PKT",
+				"keeper": "2E0LSR",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "NORTH WALSHAM",
+				"ngr": "EA",
+				"maidenhead": "TG2930"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.20833333333331,
+					29.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7PTM",
+				"keeper": "G0JSV",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "EYE",
+				"ngr": "EA",
+				"maidenhead": "TM1070"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.20833333333334,
+					91.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7PTT",
+				"keeper": "MM1PTT",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "GLASGOW",
+				"ngr": "SCOT",
+				"maidenhead": "NS6270"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					116.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RDG",
+				"keeper": "M0LTE",
+				"band": "40M",
+				"frequency": "7.051500",
+				"polarisation": "PX",
+				"region": "READING",
+				"ngr": "SW",
+				"maidenhead": "SU6772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					116.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RDG",
+				"keeper": "M0LTE",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "READING",
+				"ngr": "SW",
+				"maidenhead": "SU6772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					116.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RDG",
+				"keeper": "M0LTE",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "READING",
+				"ngr": "SW",
+				"maidenhead": "SU6772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					116.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RDG",
+				"keeper": "M0LTE",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "READING",
+				"ngr": "SW",
+				"maidenhead": "SU6772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					82.95833333333334,
+					55.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RJJ",
+				"keeper": "MM0RJJ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "ALYTH",
+				"ngr": "SCOT",
+				"maidenhead": "NO2649"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.79166666666666,
+					-51.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ROS",
+				"keeper": "M0LMN",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "HASLINGDEN",
+				"ngr": "NOR",
+				"maidenhead": "SD7923"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.29166666666666,
+					156.52083333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7RWY",
+				"keeper": "M7SVN",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "WEYMOUTH",
+				"ngr": "SW",
+				"maidenhead": "SY6785"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					207.375,
+					126.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SFD",
+				"keeper": "G6MAR",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "SEAFORD",
+				"ngr": "SE",
+				"maidenhead": "TV4799"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.04166666666666,
+					8.395833333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SOT",
+				"keeper": "2E0PEU",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "STOKE-ON-TRENT",
+				"ngr": "CEN",
+				"maidenhead": "SJ8952"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					82.70833333333334,
+					165.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SWD",
+				"keeper": "G0SBP",
+				"band": "4M",
+				"frequency": "70.325000",
+				"polarisation": "PX",
+				"region": "DARLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2617"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					82.70833333333334,
+					165.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SWD",
+				"keeper": "G0SBP",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "DARLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2617"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					82.70833333333334,
+					165.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SWD",
+				"keeper": "G0SBP",
+				"band": "40M",
+				"frequency": "7.048600",
+				"polarisation": "PX",
+				"region": "DARLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "NZ2617"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.70833333333331,
+					91.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7TIV",
+				"keeper": "M0ZZT",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "TIVERTON",
+				"ngr": "SW",
+				"maidenhead": "SS9211"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.29166666666666,
+					1.6041666666666665
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7VAX",
+				"keeper": "G0VAX",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "WEST KIRBY",
+				"ngr": "NOR",
+				"maidenhead": "SJ2287"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.70833333333331,
+					75.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WEM",
+				"keeper": "M0GZP",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "WEMBLEY",
+				"ngr": "SE",
+				"maidenhead": "TQ1612"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.29166666666666,
+					75.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WEM",
+				"keeper": "M0GZP",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "WEMBLEY",
+				"ngr": "SE",
+				"maidenhead": "TQ1685"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.29166666666666,
+					75.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WEM",
+				"keeper": "M0GZP",
+				"band": "40M",
+				"frequency": "7.052750",
+				"polarisation": "PX",
+				"region": "WEMBLEY",
+				"ngr": "SE",
+				"maidenhead": "TQ1685"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					167.52083333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WFR",
+				"keeper": "2E0TWX",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "NEWCASTLE UPON TYNE",
+				"ngr": "NOR",
+				"maidenhead": "NZ2865"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					114.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WIN",
+				"keeper": "G8IPG",
+				"band": "2M",
+				"frequency": "50.650000",
+				"polarisation": "PX",
+				"region": "WINCHESTER",
+				"ngr": "SW",
+				"maidenhead": "SU4529"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					114.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WIN",
+				"keeper": "G8IPG",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "WINCHESTER",
+				"ngr": "SW",
+				"maidenhead": "SU4529"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					114.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WIN",
+				"keeper": "G8IPG",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "WINCHESTER",
+				"ngr": "SW",
+				"maidenhead": "SU4529"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					114.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WIN",
+				"keeper": "G8IPG",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PX",
+				"region": "WINCHESTER",
+				"ngr": "SW",
+				"maidenhead": "SU4529"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.625,
+					-53.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WLG",
+				"keeper": "G8LIY",
+				"band": "40M",
+				"frequency": "7.052000",
+				"polarisation": "PX",
+				"region": "LEIGH",
+				"ngr": "NOR",
+				"maidenhead": "SD6700"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.20833333333331,
+					116.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOD",
+				"keeper": "G4KWT",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "WOODLEY",
+				"ngr": "SW",
+				"maidenhead": "SU7773"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.20833333333331,
+					116.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOD",
+				"keeper": "G4KWT",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "WOODLEY",
+				"ngr": "SW",
+				"maidenhead": "SU7773"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.125,
+					111.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOK",
+				"keeper": "G2DD",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "WOKINGHAM",
+				"ngr": "SW",
+				"maidenhead": "SU8267"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.125,
+					111.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOK",
+				"keeper": "G2DD",
+				"band": "70CM",
+				"frequency": "432.625000",
+				"polarisation": "PX",
+				"region": "WOKINGHAM",
+				"ngr": "SW",
+				"maidenhead": "SU8267"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					203.125,
+					71.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOR",
+				"keeper": "G7TWZ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "WORCESTER PARK",
+				"ngr": "SE",
+				"maidenhead": "TQ2266"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					4.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WSM",
+				"keeper": "G0SPH",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "WINSFORD",
+				"ngr": "NOR",
+				"maidenhead": "SJ6566"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.125,
+					4.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WSM",
+				"keeper": "G0SPH",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PX",
+				"region": "WINSFORD",
+				"ngr": "NOR",
+				"maidenhead": "SJ6566"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.375,
+					37.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7XTF",
+				"keeper": "M0XTF",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BUNGAY",
+				"ngr": "EA",
+				"maidenhead": "TM3890"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					80.70833333333334,
+					57.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7YEW",
+				"keeper": "GM3YEW",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "ABERNETHY",
+				"ngr": "SCOT",
+				"maidenhead": "NO1816"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.70833333333331,
+					-49.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ZNH",
+				"keeper": "M0ZNH",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "POLLINGTON",
+				"ngr": "NOR",
+				"maidenhead": "SE6119"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.04166666666667,
+					92.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GM5AUG",
+				"keeper": "GM5AUG",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "NEWTON MEARNS",
+				"ngr": "SCOT",
+				"maidenhead": "NS5355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.04166666666666,
+					8.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GW3ATZ",
+				"keeper": "GW3ATZ",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "HOPE",
+				"ngr": "WM",
+				"maidenhead": "SJ2956"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.79166666666666,
+					23.395833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M0IQF",
+				"keeper": "M0IQF",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "PX",
+				"region": "LUTON",
+				"ngr": "SE",
+				"maidenhead": "TL0422"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.79166666666666,
+					21.395833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M0IQF",
+				"keeper": "M0IQF",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "PX",
+				"region": "DUNSTABLE",
+				"ngr": "SE",
+				"maidenhead": "TL0222"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.875,
+					-44.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M0RVB",
+				"keeper": "M0RVB",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LEEDS",
+				"ngr": "NOR",
+				"maidenhead": "SE2638"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					199.29166666666666,
+					-85.52083333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M0RWV",
+				"keeper": "M0RWV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SCARBOROUGH",
+				"ngr": "NOR",
+				"maidenhead": "TA0584"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.125,
+					49.645833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M1AFY",
+				"keeper": "M1AFY",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EARDISTON",
+				"ngr": "CEN",
+				"maidenhead": "SO7068"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.29166666666666,
+					117.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M7APR",
+				"keeper": "M7APR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SWINDON",
+				"ngr": "SW",
+				"maidenhead": "SU1883"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.625,
+					60.35416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NBA",
+				"keeper": "G0AOZ",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PN",
+				"region": "BAMPTON",
+				"ngr": "SW",
+				"maidenhead": "SP3101"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.625,
+					60.35416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NBA",
+				"keeper": "G0AOZ",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PN",
+				"region": "BAMPTON",
+				"ngr": "SW",
+				"maidenhead": "SP3101"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.625,
+					60.35416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NBA",
+				"keeper": "G0AOZ",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "BAMPTON",
+				"ngr": "SW",
+				"maidenhead": "SP3101"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.625,
+					60.35416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NBA",
+				"keeper": "G0AOZ",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PN",
+				"region": "BAMPTON",
+				"ngr": "SW",
+				"maidenhead": "SP3101"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.79166666666667,
+					105.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NCB",
+				"keeper": "GM7LUN",
+				"band": "4M",
+				"frequency": "70.325000",
+				"polarisation": "PN",
+				"region": "SELKIRK",
+				"ngr": "SCOT",
+				"maidenhead": "NT4628"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NCR",
+				"keeper": "G4APL",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PN",
+				"region": "CATERHAM ON THE HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.04166666666667,
+					102.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NDU",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "433.625000",
+				"polarisation": "PN",
+				"region": "DUNS",
+				"ngr": "SCOT",
+				"maidenhead": "NT7354"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.04166666666667,
+					102.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NDU",
+				"keeper": "GM7LUN",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PN",
+				"region": "DUNS",
+				"ngr": "SCOT",
+				"maidenhead": "NT7354"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.04166666666667,
+					102.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NDU",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PN",
+				"region": "DUNS",
+				"ngr": "SCOT",
+				"maidenhead": "NT7354"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.625,
+					77.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEB",
+				"keeper": "G6JME",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PN",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TQ5801"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.625,
+					77.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEB",
+				"keeper": "G6JME",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TQ5801"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.625,
+					77.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEB",
+				"keeper": "G6JME",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PN",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TQ5801"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					85.125,
+					164.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NED",
+				"keeper": "G4EKM",
+				"band": "6CM",
+				"frequency": "5675.000000",
+				"polarisation": "PN",
+				"region": "SUNDERLAND",
+				"ngr": "NOR",
+				"maidenhead": "NZ3560"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					204.875,
+					77.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEG",
+				"keeper": "G7KBR",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PN",
+				"region": "EAST GRINSTEAD",
+				"ngr": "SE",
+				"maidenhead": "TQ3838"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					-59.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEL",
+				"keeper": "M0NFI",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "BURNLEY",
+				"ngr": "NOR",
+				"maidenhead": "SD8136"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.29166666666666,
+					148.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NEX",
+				"keeper": "M0AHN",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "EXMOUTH",
+				"ngr": "SW",
+				"maidenhead": "SX9980"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.375,
+					77.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NGP",
+				"keeper": "M0LTE",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "CHINGFORD",
+				"ngr": "SE",
+				"maidenhead": "TQ3896"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.70833333333334,
+					100.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NHW",
+				"keeper": "GM7LUN",
+				"band": "4M",
+				"frequency": "70.325000",
+				"polarisation": "PN",
+				"region": "HAWICK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5114"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.70833333333334,
+					100.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NHW",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PN",
+				"region": "HAWICK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5114"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.70833333333334,
+					100.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NHW",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "HAWICK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5114"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.29166666666667,
+					92.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NKL",
+				"keeper": "GM5AUG",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PN",
+				"region": "KILSYTH",
+				"ngr": "SCOT",
+				"maidenhead": "NS7380"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.29166666666667,
+					92.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NKL",
+				"keeper": "GM5AUG",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PN",
+				"region": "KILSYTH",
+				"ngr": "SCOT",
+				"maidenhead": "NS7380"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.79166666666666,
+					62.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NLB",
+				"keeper": "G7HMV",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PN",
+				"region": "LEIGHTON BUZZARD",
+				"ngr": "SE",
+				"maidenhead": "SP9323"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					105.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NLS",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "GALASHIELS",
+				"ngr": "SCOT",
+				"maidenhead": "NT4635"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					105.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NLS",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PN",
+				"region": "GALASHIELS",
+				"ngr": "SCOT",
+				"maidenhead": "NT4635"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					64.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NMK",
+				"keeper": "M0UKF",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "MILTON KEYNES",
+				"ngr": "SE",
+				"maidenhead": "SP8539"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.04166666666666,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PN",
+				"region": "PEWSEY",
+				"ngr": "SW",
+				"maidenhead": "SU0959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.04166666666666,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "6M",
+				"frequency": "50.650000",
+				"polarisation": "PN",
+				"region": "PEWSEY",
+				"ngr": "SW",
+				"maidenhead": "SU0959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.04166666666666,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PN",
+				"region": "BEECHINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "SU0959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.04166666666666,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "PEWSEY",
+				"ngr": "SW",
+				"maidenhead": "SU0959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.04166666666666,
+					118.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NPW",
+				"keeper": "M0AHN",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PN",
+				"region": "PEWSEY",
+				"ngr": "SW",
+				"maidenhead": "SU0959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.20833333333331,
+					60.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NRG",
+				"keeper": "M0IJS",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "RUGBY",
+				"ngr": "CEN",
+				"maidenhead": "SP5177"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					103.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSB",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PN",
+				"region": "GALASHIELS",
+				"ngr": "SCOT",
+				"maidenhead": "NT4436"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					103.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSB",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "GALASHIELS",
+				"ngr": "SCOT",
+				"maidenhead": "NT4436"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					108.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSC",
+				"keeper": "G0NZO",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "IBBERTON",
+				"ngr": "SW",
+				"maidenhead": "ST7908"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					108.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSC",
+				"keeper": "G0NZO",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PN",
+				"region": "IBBERTON",
+				"ngr": "SW",
+				"maidenhead": "ST7908"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					108.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSC",
+				"keeper": "G0NZO",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PN",
+				"region": "IBBERTON",
+				"ngr": "SW",
+				"maidenhead": "ST7908"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.79166666666667,
+					99.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSK",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PN",
+				"region": "SELKIRK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5029"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.79166666666667,
+					99.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSK",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "SELKIRK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5029"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.79166666666667,
+					99.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NSK",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.900000",
+				"polarisation": "PN",
+				"region": "SELKIRK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5029"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.625,
+					52.47916666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NUL",
+				"keeper": "GM7LUN",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PN",
+				"region": "UPPER LARGO",
+				"ngr": "SCOT",
+				"maidenhead": "NO4304"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.70833333333334,
+					98.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NWD",
+				"keeper": "GM3SAN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "SANQUHAR",
+				"ngr": "SCOT",
+				"maidenhead": "NS8910"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.70833333333334,
+					98.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NWD",
+				"keeper": "GM3SAN",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PN",
+				"region": "SANQUHAR",
+				"ngr": "SCOT",
+				"maidenhead": "NS8910"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					97.04166666666667,
+					103.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NXA",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "430.200000",
+				"polarisation": "PN",
+				"region": "LAMBERTON",
+				"ngr": "SCOT",
+				"maidenhead": "NT9458"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					97.04166666666667,
+					103.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NXA",
+				"keeper": "GM7LUN",
+				"band": "4M",
+				"frequency": "70.487500",
+				"polarisation": "PN",
+				"region": "LAMBERTON",
+				"ngr": "SCOT",
+				"maidenhead": "NT9458"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.125,
+					66.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NXX",
+				"keeper": "G8KHF",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "DAVENTRY",
+				"ngr": "CEN",
+				"maidenhead": "SP5763"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					207.375,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PLT",
+				"keeper": "2E0EMO",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LOUGHTON",
+				"ngr": "SE",
+				"maidenhead": "TQ4397"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.875,
+					52.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PMF",
+				"keeper": "M0NXN",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LEDBURY",
+				"ngr": "CEN",
+				"maidenhead": "SO7337"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.95833333333331,
+					33.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PMH",
+				"keeper": "G7OCD",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "MARTLESHAM",
+				"ngr": "EA",
+				"maidenhead": "TM2445"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					164.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PNE",
+				"keeper": "M0NXN",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "GATESHEAD",
+				"ngr": "NOR",
+				"maidenhead": "NZ2563"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.95833333333331,
+					17.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PNH",
+				"keeper": "M6PIU",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "NOTTINGHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK5840"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.125,
+					-39.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PNU",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LOCHMADDY",
+				"ngr": "SCOT",
+				"maidenhead": "NF8164"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					92.70833333333334,
+					-34.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PSU",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LOCHBOISDALE ",
+				"ngr": "SCOT",
+				"maidenhead": "NF7614"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.29166666666666,
+					0.3958333333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PWC",
+				"keeper": "G4VSS",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "WARRINGTON",
+				"ngr": "NOR",
+				"maidenhead": "SJ6182"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.125,
+					50.645833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7RLE",
+				"keeper": "G8XYJ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LUDLOW",
+				"ngr": "CEN",
+				"maidenhead": "SO5168"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.375,
+					50.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7RLU",
+				"keeper": "G8XYJ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MUCH WENLOCK",
+				"ngr": "CEN",
+				"maidenhead": "SO6199"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.625,
+					14.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ROC",
+				"keeper": "M0LRV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "OAKHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK8509"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					213.29166666666666,
+					76.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7RVM",
+				"keeper": "G8YPK",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SOUTHEND ON SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ7787"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.375,
+					95.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7RVN",
+				"keeper": "GW0VFF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NEATH",
+				"ngr": "WM",
+				"maidenhead": "SS7696"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.70833333333331,
+					37.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7TV",
+				"keeper": "G0MBA",
+				"band": "70CM",
+				"frequency": "432.525000",
+				"polarisation": "RN",
+				"region": "ST OSYTH",
+				"ngr": "EA",
+				"maidenhead": "TM0815"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.70833333333331,
+					37.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7TV",
+				"keeper": "G0MBA",
+				"band": "2M",
+				"frequency": "144.500000",
+				"polarisation": "RN",
+				"region": "ST OSYTH",
+				"ngr": "EA",
+				"maidenhead": "TM0815"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.20833333333331,
+					66.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7TW",
+				"keeper": "G1TZC",
+				"band": "2M",
+				"frequency": "144.500000",
+				"polarisation": "RN",
+				"region": "WYTHALL",
+				"ngr": "CEN",
+				"maidenhead": "SP0776"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.95833333333331,
+					54.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAA",
+				"keeper": "G4LVV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WORCESTER",
+				"ngr": "CEN",
+				"maidenhead": "SO8549"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.625,
+					1.3958333333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAB",
+				"keeper": "GM4EMX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ8202"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.04166666666667,
+					153.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAE",
+				"keeper": "M0UKB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ALLENDALE",
+				"ngr": "NOR",
+				"maidenhead": "NY8456"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					60.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAG",
+				"keeper": "2E0SSD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "THAME",
+				"ngr": "SW",
+				"maidenhead": "SP7105"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.04166666666667,
+					89.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAH",
+				"keeper": "GM7GDE",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EAST KILBRIDE",
+				"ngr": "SCOT",
+				"maidenhead": "NS6052"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.04166666666667,
+					89.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAH",
+				"keeper": "GM7GDE",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "EAST KIBRIDE",
+				"ngr": "SCOT",
+				"maidenhead": "NS6052"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.95833333333331,
+					33.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAI",
+				"keeper": "2E0UCB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "IPSWICH",
+				"ngr": "EA",
+				"maidenhead": "TM1446"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					53.395833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAK",
+				"keeper": "MM0XET",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DUNDEE",
+				"ngr": "SCOT",
+				"maidenhead": "NO4432"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.625,
+					-54.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAL",
+				"keeper": "G8CAP",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ASHTON-UNDER-LYNE",
+				"ngr": "NOR",
+				"maidenhead": "SD9601"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					167.52083333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAM",
+				"keeper": "M3ZNE",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NEWCASTLE UPON TYNE",
+				"ngr": "NOR",
+				"maidenhead": "NZ2865"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.625,
+					-0.3541666666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAR",
+				"keeper": "MM0ROR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9008"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.625,
+					2.479166666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UAZ",
+				"keeper": "MM0EFI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "TARLAND",
+				"ngr": "SCOT",
+				"maidenhead": "NJ4304"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.125,
+					106.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UB",
+				"keeper": "G4KVI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BATH",
+				"ngr": "SW",
+				"maidenhead": "ST7764"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					110.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBA",
+				"keeper": "2E0HKD",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "BASINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "SU6153"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.875,
+					47.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBB",
+				"keeper": "2W0LPU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "BRECON",
+				"ngr": "WM",
+				"maidenhead": "SN9830"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.95833333333331,
+					28.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBG",
+				"keeper": "M0PLT",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BIGGLESWADE",
+				"ngr": "SE",
+				"maidenhead": "TL1943"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.95833333333334,
+					-12.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBI",
+				"keeper": "GM0UDL",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "MUIR OF ORD",
+				"ngr": "SCOT",
+				"maidenhead": "NH4849"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					-18.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBL",
+				"keeper": "GW4BML",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "BALA",
+				"ngr": "WM",
+				"maidenhead": "SH8236"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					97.29166666666667,
+					-39.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBR",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LOCHMADDY",
+				"ngr": "SCOT",
+				"maidenhead": "NF9180"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					206.625,
+					-35.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBT",
+				"keeper": "2E0TKK",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WISBECH",
+				"ngr": "EA",
+				"maidenhead": "TF4509"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.625,
+					67.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBZ",
+				"keeper": "G7KDM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CARTERTON",
+				"ngr": "SW",
+				"maidenhead": "SP2807"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					204.875,
+					26.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UC",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ROYSTON",
+				"ngr": "SE",
+				"maidenhead": "TL3736"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					199.20833333333331,
+					-37.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCB",
+				"keeper": "M5SJM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LINCOLN",
+				"ngr": "CEN",
+				"maidenhead": "TF0373"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					216.79166666666666,
+					28.604166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCE",
+				"keeper": "G0MBA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "COLCHESTER",
+				"ngr": "EA",
+				"maidenhead": "TL9927"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.375,
+					-43.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCG",
+				"keeper": "M0WNU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "RICHMOND",
+				"ngr": "NOR",
+				"maidenhead": "SE1798"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.625,
+					19.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCH",
+				"keeper": "2E0XTA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CHELMSFORD",
+				"ngr": "EA",
+				"maidenhead": "TL7006"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.70833333333331,
+					36.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCL",
+				"keeper": "G0MBA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CLACTON ON SEA",
+				"ngr": "EA",
+				"maidenhead": "TM1716"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.20833333333334,
+					91.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCM",
+				"keeper": "MM1PTT",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GLASGOW",
+				"ngr": "SCOT",
+				"maidenhead": "NS6270"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.20833333333334,
+					91.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCM",
+				"keeper": "MM1PTT",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "GLASGOW",
+				"ngr": "SCOT",
+				"maidenhead": "NS6270"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.29166666666666,
+					67.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCO",
+				"keeper": "M5WOB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CORBY",
+				"ngr": "CEN",
+				"maidenhead": "SP8888"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					178.625,
+					62.395833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCR",
+				"keeper": "M1TCP",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CIRENCESTER",
+				"ngr": "SW",
+				"maidenhead": "SP0302"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					78.875,
+					154.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCU",
+				"keeper": "M0LLC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MARYPORT",
+				"ngr": "NOR",
+				"maidenhead": "NY0533"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.70833333333334,
+					145.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCV",
+				"keeper": "M0LLC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WHITEHAVEN",
+				"ngr": "NOR",
+				"maidenhead": "NX9617"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					6.479166666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCW",
+				"keeper": "G7OMN",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "CREWE",
+				"ngr": "NOR",
+				"maidenhead": "SJ6754"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					6.479166666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCW",
+				"keeper": "G7OMN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CREWE",
+				"ngr": "NOR",
+				"maidenhead": "SJ6754"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					87.20833333333334,
+					91.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UD",
+				"keeper": "GM0RTY",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DUMBARTON",
+				"ngr": "SCOT",
+				"maidenhead": "NS4276"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.79166666666666,
+					99.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UDA",
+				"keeper": "G7NVQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GILLINGHAM",
+				"ngr": "SW",
+				"maidenhead": "ST8026"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-9.375,
+					-65.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UDG",
+				"keeper": "GI0AZB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DUNGIVEN",
+				"ngr": "NI",
+				"maidenhead": "IC6509"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					91.04166666666667,
+					-11.395833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UDL",
+				"keeper": "GM0UDL",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "FORTROSE",
+				"ngr": "SCOT",
+				"maidenhead": "NH6957"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.625,
+					-34.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UDP",
+				"keeper": "G6YCA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DEEPING ST JAMES",
+				"ngr": "CEN",
+				"maidenhead": "TF1609"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					-46.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UE",
+				"keeper": "M0HOM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EPWORTH",
+				"ngr": "NOR",
+				"maidenhead": "SE7408"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.70833333333331,
+					-42.604166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UEI",
+				"keeper": "M0GIW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "THORNE",
+				"ngr": "CEN",
+				"maidenhead": "SE6812"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.70833333333334,
+					161.64583333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UEK",
+				"keeper": "M5EEK",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "STOCKTON-ON-TEES",
+				"ngr": "NOR",
+				"maidenhead": "NZ4218"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.29166666666667,
+					104.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UEL",
+				"keeper": "MM0NBW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORTH BERWICK",
+				"ngr": "SCOT",
+				"maidenhead": "NT5584"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					90.95833333333334,
+					-17.354166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UES",
+				"keeper": "GM5DNA",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "INVERNESS",
+				"ngr": "SCOT",
+				"maidenhead": "NH6348"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.20833333333331,
+					29.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UEY",
+				"keeper": "G0JSV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EYE",
+				"ngr": "EA",
+				"maidenhead": "TM1070"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.875,
+					80.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UF",
+				"keeper": "G6ZNW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "FOLKESTONE",
+				"ngr": "SE",
+				"maidenhead": "TR2135"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.20833333333334,
+					104.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UFC",
+				"keeper": "GM5AUG ",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "EDINBURGH ",
+				"ngr": "SCOT",
+				"maidenhead": "NT2573"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					207.375,
+					126.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UFD",
+				"keeper": "G6MAR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SEAFORD",
+				"ngr": "SE",
+				"maidenhead": "TV4799"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.04166666666666,
+					61.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UFO",
+				"keeper": "M5WOB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BOZEAT",
+				"ngr": "CEN",
+				"maidenhead": "SP9259"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.95833333333331,
+					111.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UG",
+				"keeper": "G7GMN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ALTON",
+				"ngr": "SW",
+				"maidenhead": "SU7243"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					86.875,
+					103.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UGL",
+				"keeper": "GM7LUN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GALASHIELS",
+				"ngr": "SCOT",
+				"maidenhead": "NT4436"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					179.375,
+					10.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UGP",
+				"keeper": "G6YRK",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GLOSSOP",
+				"ngr": "NOR",
+				"maidenhead": "SK0193"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					17.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UGR",
+				"keeper": "M0SDM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BARROWBY",
+				"ngr": "CEN",
+				"maidenhead": "SK8836"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					206.625,
+					-22.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UGY",
+				"keeper": "M5MSX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GREAT YARMOUTH",
+				"ngr": "EA",
+				"maidenhead": "TG4803"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					212.875,
+					28.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHA",
+				"keeper": "M0NAS",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HALSTEAD",
+				"ngr": "EA",
+				"maidenhead": "TL7930"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.04166666666667,
+					102.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHD",
+				"keeper": "GM7LUN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DUNS",
+				"ngr": "SCOT",
+				"maidenhead": "NT7354"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.375,
+					2.3958333333333335
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHE",
+				"keeper": "M0OUE",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ST. HELENS",
+				"ngr": "NOR",
+				"maidenhead": "SJ5392"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.95833333333331,
+					11.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHH",
+				"keeper": "G7NRU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HOUGH ON THE HILL",
+				"ngr": "CEN",
+				"maidenhead": "SK9246"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.29166666666666,
+					-17.645833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHI",
+				"keeper": "MW0AQZ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HOLYHEAD",
+				"ngr": "WM",
+				"maidenhead": "SH2381"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.125,
+					-48.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHT",
+				"keeper": "M0WKR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SUMMERBRIDGE",
+				"ngr": "NOR",
+				"maidenhead": "SE2263"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.875,
+					-29.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UI",
+				"keeper": "M0TUM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TG1130"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					214.95833333333331,
+					72.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UIK",
+				"keeper": "G4ZXI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HEADCORN",
+				"ngr": "SE",
+				"maidenhead": "TQ8344"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					92.70833333333334,
+					-34.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UIS",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LOCHBOISDALE",
+				"ngr": "SCOT",
+				"maidenhead": "NF7614"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.20833333333331,
+					116.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UJ",
+				"keeper": "G8DOR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MAIDENHEAD",
+				"ngr": "SW",
+				"maidenhead": "SU8773"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.79166666666666,
+					-23.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UJD",
+				"keeper": "M0UJD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORTH WALSHAM",
+				"ngr": "EA",
+				"maidenhead": "TG2729"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.20833333333331,
+					75.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UJS",
+				"keeper": "M0SCJ",
+				"band": "40M",
+				"frequency": "7.078000",
+				"polarisation": "AP",
+				"region": "FOREST HILL",
+				"ngr": "SE",
+				"maidenhead": "TQ3673"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.125,
+					109.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKB",
+				"keeper": "G3ARX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WOKINGHAM",
+				"ngr": "SW",
+				"maidenhead": "SU8069"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.875,
+					33.47916666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKC",
+				"keeper": "M0HKC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "IPSWICH",
+				"ngr": "EA",
+				"maidenhead": "TM2434"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					213.125,
+					76.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKH",
+				"keeper": "2E0SGG",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CHATHAM",
+				"ngr": "SE",
+				"maidenhead": "TQ7766"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.29166666666667,
+					92.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKL",
+				"keeper": "MM3NDH",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "KILSYTH",
+				"ngr": "SCOT",
+				"maidenhead": "NS7380"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					213.29166666666666,
+					26.604166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKR",
+				"keeper": "M0NKR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BRANDON",
+				"ngr": "EA",
+				"maidenhead": "TL7787"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					203.29166666666666,
+					31.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKS",
+				"keeper": "M0UKS",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TM2289"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.875,
+					-21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKT",
+				"keeper": "2E0LSR",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "NORTH WALSHAM",
+				"ngr": "EA",
+				"maidenhead": "TG2930"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.79166666666667,
+					99.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULD",
+				"keeper": "GM7LUN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LINDEAN",
+				"ngr": "SCOT",
+				"maidenhead": "NT5029"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.875,
+					53.645833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULG",
+				"keeper": "M0VNA",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LEDBURY",
+				"ngr": "CEN",
+				"maidenhead": "SO7438"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.04166666666666,
+					136.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULJ",
+				"keeper": "G1LQT",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ST AUSTELL",
+				"ngr": "SW",
+				"maidenhead": "SW9753"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					97.125,
+					-39.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULM",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LOCHMADDY",
+				"ngr": "SCOT",
+				"maidenhead": "NF9168"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					87.04166666666667,
+					159.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULR",
+				"keeper": "M0IGA",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "SUNDERLAND",
+				"ngr": "NOR",
+				"maidenhead": "NZ4053"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					203.20833333333331,
+					77.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULS",
+				"keeper": "M0PQA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LONDON",
+				"ngr": "SE",
+				"maidenhead": "TQ2873"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.04166666666666,
+					-52.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULU",
+				"keeper": "M0JKS",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LANCASTER",
+				"ngr": "NOR",
+				"maidenhead": "SD4856"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					28.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UM",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CAMBRIDGE",
+				"ngr": "EA",
+				"maidenhead": "TL3959"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					181.125,
+					115.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMA",
+				"keeper": "M1CJE",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MARLBOROUGH",
+				"ngr": "SW",
+				"maidenhead": "SU1668"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.70833333333331,
+					-53.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMC",
+				"keeper": "M0MSC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BURY",
+				"ngr": "NOR",
+				"maidenhead": "SD7710"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.125,
+					2.479166666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMD",
+				"keeper": "GW0TQM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MOLD",
+				"ngr": "WM",
+				"maidenhead": "SJ2364"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					93.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMH",
+				"keeper": "M0IAX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WITHYPOOL",
+				"ngr": "SW",
+				"maidenhead": "SS8436"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.95833333333331,
+					64.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMK",
+				"keeper": "G0TAI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GREAT LINFORD",
+				"ngr": "SE",
+				"maidenhead": "SP8541"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					182.79166666666666,
+					-42.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UML",
+				"keeper": "M0NJW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MORLEY",
+				"ngr": "NOR",
+				"maidenhead": "SE2827"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					214.625,
+					24.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMN",
+				"keeper": "2E0XTA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MALDON",
+				"ngr": "EA",
+				"maidenhead": "TL8506"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					207.375,
+					72.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMO",
+				"keeper": "2E0EMO",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LOUGHTON",
+				"ngr": "SE",
+				"maidenhead": "TQ4397"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					164.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMS",
+				"keeper": "M0VNA",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "GATESHEAD",
+				"ngr": "NOR",
+				"maidenhead": "NZ2563"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.04166666666667,
+					92.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMT",
+				"keeper": "GM5AUG",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "NEWTON MEARNS",
+				"ngr": "SCOT",
+				"maidenhead": "NS5355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					102.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMV",
+				"keeper": "GM0VMV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EDINBURGH",
+				"ngr": "SCOT",
+				"maidenhead": "NT2369"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					97.20833333333334,
+					147.47916666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMW",
+				"keeper": "M0UKB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DUMFRIES",
+				"ngr": "SCOT",
+				"maidenhead": "NX9874"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.79166666666666,
+					-22.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UN",
+				"keeper": "M0TUM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TG1826"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					204.70833333333331,
+					-29.604166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNB",
+				"keeper": "G7PQF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH ",
+				"ngr": "EA",
+				"maidenhead": "TG3112"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.29166666666666,
+					101.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNE",
+				"keeper": "MW0LGE",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NEWPORT",
+				"ngr": "WM",
+				"maidenhead": "ST4287"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					81.29166666666667,
+					104.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNH",
+				"keeper": "MM3NDH",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "DALGETY BAY",
+				"ngr": "SCOT",
+				"maidenhead": "NT1583"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					63.35416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNL",
+				"keeper": "G7PKF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MILTON KEYNES",
+				"ngr": "SE",
+				"maidenhead": "SP8431"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.95833333333331,
+					18.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNM",
+				"keeper": "G8BPQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NOTTINGHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK5943"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.95833333333331,
+					18.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNM",
+				"keeper": "G8BPQ",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "NOTTINGHAM",
+				"ngr": "CEN",
+				"maidenhead": "SK5943"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.875,
+					-49.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNN",
+				"keeper": "G0VRM",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "AP",
+				"region": "MARKET WEIGHTON",
+				"ngr": "NOR",
+				"maidenhead": "SE9136"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.04166666666666,
+					65.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNP",
+				"keeper": "G7HIF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "POTCOTE",
+				"ngr": "CEN",
+				"maidenhead": "SP6652"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.04166666666667,
+					-15.479166666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNR",
+				"keeper": "GM5JET",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "NAIRN",
+				"ngr": "SCOT",
+				"maidenhead": "NH8555"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.125,
+					-39.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNU",
+				"keeper": "GM8SAU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "LOCHMADDY",
+				"ngr": "SCOT",
+				"maidenhead": "NF8164"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.125,
+					-39.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNU",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LOCHMADDY",
+				"ngr": "SCOT",
+				"maidenhead": "NF8164"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.20833333333331,
+					73.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UNW",
+				"keeper": "G7IDB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CRYSTAL PALACE",
+				"ngr": "SE",
+				"maidenhead": "TQ3472"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.79166666666666,
+					30.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UOH",
+				"keeper": "GM5AUG",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "COLCHESTER",
+				"ngr": "EA",
+				"maidenhead": "TM0123"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.625,
+					114.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UP",
+				"keeper": "M0PVO",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "PORTSMOUTH",
+				"ngr": "SW",
+				"maidenhead": "SU6506"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					180.875,
+					111.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPA",
+				"keeper": "M6OER",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SALISBURY",
+				"ngr": "SW",
+				"maidenhead": "SU1231"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					178.95833333333331,
+					-46.479166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPJ",
+				"keeper": "2E1HRC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "KEIGHLEY",
+				"ngr": "NOR",
+				"maidenhead": "SE0445"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					188.79166666666666,
+					-54.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPP",
+				"keeper": "M0NED",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BAMBER BRIDGE",
+				"ngr": "NOR",
+				"maidenhead": "SD5627"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.625,
+					23.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPS",
+				"keeper": "G1BYY",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ST.ALBANS",
+				"ngr": "SE",
+				"maidenhead": "TL1403"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					112.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UQ",
+				"keeper": "M0PHB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EASTLEIGH",
+				"ngr": "SW",
+				"maidenhead": "SU4322"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					189.20833333333331,
+					60.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URG",
+				"keeper": "M0IJS",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "RUGBY",
+				"ngr": "CEN",
+				"maidenhead": "SP5177"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					197.125,
+					65.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URH",
+				"keeper": "M7HJB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "RUSHDEN",
+				"ngr": "CEN",
+				"maidenhead": "SP9666"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.125,
+					86.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URM",
+				"keeper": "2E0SOH",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "RAMSGATE",
+				"ngr": "SE",
+				"maidenhead": "TR3765"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.125,
+					86.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URM",
+				"keeper": "2E0SOH",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "RAMSGATE",
+				"ngr": "SE",
+				"maidenhead": "TR3765"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.125,
+					86.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URM",
+				"keeper": "2E0SOH",
+				"band": "70CM",
+				"frequency": "433.800000",
+				"polarisation": "AP",
+				"region": "RAMSGATE",
+				"ngr": "SE",
+				"maidenhead": "TR3765"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					199.375,
+					30.645833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7URP",
+				"keeper": "G7URP",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ATTLEBOROUGH",
+				"ngr": "EA",
+				"maidenhead": "TM0198"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					202.70833333333331,
+					-26.479166666666668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7US",
+				"keeper": "M0TUM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TG2415"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.79166666666666,
+					78.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USA",
+				"keeper": "G0BUX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MAYFIELD",
+				"ngr": "SE",
+				"maidenhead": "TQ5927"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					95.375,
+					89.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USC",
+				"keeper": "GM0WUR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "STIRLING",
+				"ngr": "SCOT",
+				"maidenhead": "NS8090"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					215.29166666666666,
+					76.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USE",
+				"keeper": "2E0XTA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SOUTHEND ON SEA",
+				"ngr": "SE",
+				"maidenhead": "TQ8786"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					210.625,
+					73.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USH",
+				"keeper": "G6JME",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": "TQ6401"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					89.125,
+					96.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USI",
+				"keeper": "GM0USI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORTH KELVINSIDE",
+				"ngr": "SCOT",
+				"maidenhead": "NS5768"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.70833333333331,
+					9.520833333333334
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USL",
+				"keeper": "M0BWU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SILEBY",
+				"ngr": "CEN",
+				"maidenhead": "SK6015"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					88.79166666666667,
+					94.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USM",
+				"keeper": "GM3STM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "AUCHINLECK",
+				"ngr": "SCOT",
+				"maidenhead": "NS5522"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.875,
+					63.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USS",
+				"keeper": "M0BOY",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MILTON KEYNES",
+				"ngr": "SE",
+				"maidenhead": "SP8435"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.04166666666666,
+					135.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UST",
+				"keeper": "G7KFQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NEWQUAY",
+				"ngr": "SW",
+				"maidenhead": "SW8657"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					85.04166666666667,
+					164.47916666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USU",
+				"keeper": "G4EKM",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "SUNDERLAND",
+				"ngr": "NOR",
+				"maidenhead": "NZ3554"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.79166666666666,
+					26.520833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USV",
+				"keeper": "G6YIQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HITCHIN",
+				"ngr": "SE",
+				"maidenhead": "TL1725"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.20833333333331,
+					109.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USW",
+				"keeper": "G0UWS",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SWINDON",
+				"ngr": "SW",
+				"maidenhead": "SU2076"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.95833333333331,
+					68.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UT",
+				"keeper": "M0XER",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "TOWCESTER",
+				"ngr": "CEN",
+				"maidenhead": "SP6948"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					116.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UTL",
+				"keeper": "M0LTE",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "READING",
+				"ngr": "SW",
+				"maidenhead": "SU6772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.70833333333331,
+					-25.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UTM",
+				"keeper": "M0TUM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NORWICH",
+				"ngr": "EA",
+				"maidenhead": "TG1514"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.625,
+					27.479166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UUK",
+				"keeper": "G7HMV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HEMEL HEMPSTEAD",
+				"ngr": "SE",
+				"maidenhead": "TL0804"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.70833333333331,
+					116.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UUV",
+				"keeper": "M0MZF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SOUTHAMPTON",
+				"ngr": "SW",
+				"maidenhead": "SU4711"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					186.79166666666666,
+					113.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UUW",
+				"keeper": "M0MZF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WINCHESTER",
+				"ngr": "SW",
+				"maidenhead": "SU4429"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.79166666666666,
+					76.35416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVA",
+				"keeper": "G0BUX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HEATHFIELD",
+				"ngr": "SE",
+				"maidenhead": "TQ5721"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.20833333333331,
+					86.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVB",
+				"keeper": "M5AAD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MARGATE",
+				"ngr": "SE",
+				"maidenhead": "TR3770"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.20833333333331,
+					33.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVC",
+				"keeper": "G0CFB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HALESWORTH",
+				"ngr": "EA",
+				"maidenhead": "TM3473"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					87.20833333333334,
+					100.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVL",
+				"keeper": "MM0NBW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "TRANENT",
+				"ngr": "SCOT",
+				"maidenhead": "NT4172"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.95833333333331,
+					69.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVO",
+				"keeper": "M0REQ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GUILDFORD",
+				"ngr": "SW",
+				"maidenhead": "TQ0047"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					200.70833333333331,
+					22.604166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVR",
+				"keeper": "G7HMV",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HARPENDEN",
+				"ngr": "SE",
+				"maidenhead": "TL1317"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					190.625,
+					47.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVS",
+				"keeper": "GW0VFF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SWANSEA ",
+				"ngr": "WM",
+				"maidenhead": "SN6800"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					191.20833333333331,
+					104.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVV",
+				"keeper": "G7FBD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BRISTOL",
+				"ngr": "SW",
+				"maidenhead": "ST6570"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.95833333333331,
+					24.604166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVY",
+				"keeper": "2E1LEX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BEDFORD",
+				"ngr": "SE",
+				"maidenhead": "TL0547"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					208.70833333333331,
+					70.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UVZ",
+				"keeper": "G0BUX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BLACKBOYS",
+				"ngr": "SE",
+				"maidenhead": "TQ5118"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.04166666666666,
+					52.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWC",
+				"keeper": "M1AEC",
+				"band": "70CM",
+				"frequency": "433.800000",
+				"polarisation": "AP",
+				"region": "WORCESTER",
+				"ngr": "CEN",
+				"maidenhead": "SO8353"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					213.375,
+					74.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWF",
+				"keeper": "2E0KFG",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WICKFORD",
+				"ngr": "EA",
+				"maidenhead": "TQ7592"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.79166666666666,
+					52.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWH",
+				"keeper": "2E0MDJ",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "CHELTENHAM",
+				"ngr": "SW",
+				"maidenhead": "SO9320"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					196.79166666666666,
+					52.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWH",
+				"keeper": "2E0MDJ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CHELTENHAM",
+				"ngr": "SW",
+				"maidenhead": "SO9320"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.20833333333334,
+					-40.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWI",
+				"keeper": "GM8SAU",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "BAYHEAD",
+				"ngr": "SCOT",
+				"maidenhead": "NF7070"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					211.125,
+					71.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWK",
+				"keeper": "G6VBJ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "NEW ASH GREEN",
+				"ngr": "SE",
+				"maidenhead": "TQ6263"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					214.70833333333331,
+					25.4375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWM",
+				"keeper": "M1DOZ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GREAT TOTHAM",
+				"ngr": "EA",
+				"maidenhead": "TL8613"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					187.29166666666666,
+					18.395833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWR",
+				"keeper": "M0PJA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "SHEFFIELD",
+				"ngr": "NOR",
+				"maidenhead": "SK4982"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.125,
+					13.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWS",
+				"keeper": "M0JKS",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BAKEWELL",
+				"ngr": "CEN",
+				"maidenhead": "SK2460"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					183.125,
+					13.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UWS",
+				"keeper": "M0JKS",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "BAKEWELL",
+				"ngr": "CEN",
+				"maidenhead": "SK2460"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					83.125,
+					168.35416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UXX",
+				"keeper": "G4MSF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GATESHEAD",
+				"ngr": "NOR",
+				"maidenhead": "NZ2961"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					82.95833333333334,
+					168.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UXY",
+				"keeper": "G4MSF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CHESTER-LE-STREET",
+				"ngr": "NOR",
+				"maidenhead": "NZ2949"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.95833333333331,
+					83.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UYE",
+				"keeper": "M0SDJ",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WYE",
+				"ngr": "SE",
+				"maidenhead": "TR0447"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					201.29166666666666,
+					21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VC",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "PETERBOROUGH",
+				"ngr": "EA",
+				"maidenhead": "TL1289"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					80.95833333333334,
+					54.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VE",
+				"keeper": "GM2BWW",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BLAIRGOWRIE",
+				"ngr": "SCOT",
+				"maidenhead": "NO1547"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					198.875,
+					20.645833333333332
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VH",
+				"keeper": "G4FKI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BEDFORD",
+				"ngr": "CEN",
+				"maidenhead": "TL0138"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					194.625,
+					99.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VM",
+				"keeper": "M0VPN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "IBBERTON",
+				"ngr": "SW",
+				"maidenhead": "ST8008"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					93.29166666666667,
+					92.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VN",
+				"keeper": "GM8HBY",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "KILSYTH",
+				"ngr": "SCOT",
+				"maidenhead": "NS7380"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					184.79166666666666,
+					45.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VS",
+				"keeper": "GW0VFF",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CARMARTHEN",
+				"ngr": "WM",
+				"maidenhead": "SN3625"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					80.875,
+					165.60416666666669
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VU",
+				"keeper": "G0OCB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CROOK",
+				"ngr": "NOR",
+				"maidenhead": "NZ1637"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.20833333333331,
+					100.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VV",
+				"keeper": "G7FBD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BRISTOL",
+				"ngr": "SW",
+				"maidenhead": "ST7170"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					96.625,
+					2.6458333333333335
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7VX",
+				"keeper": "MM0ROR",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ABERDEEN",
+				"ngr": "SCOT",
+				"maidenhead": "NJ9308"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					79.20833333333334,
+					105.39583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MM7NSY",
+				"keeper": "MM7NSY",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PN",
+				"region": "BROXBURN",
+				"ngr": "SCOT",
+				"maidenhead": "NT0672"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					94.95833333333334,
+					97.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MM7WXT",
+				"keeper": "MM7WXT",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "LANARK",
+				"ngr": "SCOT",
+				"maidenhead": "NS8844"
+			}
+		}
+	]
 }
