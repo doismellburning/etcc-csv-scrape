@@ -36,7 +36,7 @@
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
-				"region": "SOUTHGATE  LONDON",
+				"region": "SOUTHGATE",
 				"ngr": "SE",
 				"maidenhead": "TQ2893"
 			}
@@ -1265,8 +1265,28 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					209.375,
-					128.64583333333334
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EBN",
+				"keeper": "G6JME",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PX",
+				"region": "EASTBOURNE",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -1278,15 +1298,15 @@
 				"polarisation": "PX",
 				"region": "EASTBOURNE",
 				"ngr": "SE",
-				"maidenhead": "TV5998"
+				"maidenhead": ""
 			}
 		},
 		{
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					209.375,
-					128.64583333333334
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -1298,7 +1318,7 @@
 				"polarisation": "PX",
 				"region": "EASTBOURNE",
 				"ngr": "SE",
-				"maidenhead": "TV5998"
+				"maidenhead": ""
 			}
 		},
 		{
