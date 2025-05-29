@@ -1265,8 +1265,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					208.625,
+					77.35416666666666
 				],
 				"type": "Point"
 			},
@@ -1278,15 +1278,15 @@
 				"polarisation": "PX",
 				"region": "EASTBOURNE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ5801"
 			}
 		},
 		{
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					208.625,
+					77.35416666666666
 				],
 				"type": "Point"
 			},
@@ -1298,15 +1298,15 @@
 				"polarisation": "PX",
 				"region": "EASTBOURNE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ5801"
 			}
 		},
 		{
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					208.625,
+					77.35416666666666
 				],
 				"type": "Point"
 			},
@@ -1318,7 +1318,7 @@
 				"polarisation": "PX",
 				"region": "EASTBOURNE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ5801"
 			}
 		},
 		{
