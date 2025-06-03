@@ -6665,8 +6665,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					94.625,
+					165.60416666666669
 				],
 				"type": "Point"
 			},
@@ -6678,7 +6678,7 @@
 				"polarisation": "AP",
 				"region": "SLEIGHTS",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "NZ8607"
 			}
 		},
 		{
