@@ -4525,26 +4525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					194.95833333333331,
-					54.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAA",
-				"keeper": "G4LVV",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "WORCESTER",
-				"ngr": "CEN",
-				"maidenhead": "SO8549"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					94.625,
 					1.3958333333333333
 				],
