@@ -4125,6 +4125,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					94.70833333333334,
+					98.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NWD",
+				"keeper": "GM3SAN",
+				"band": "70CM",
+				"frequency": "432.650000",
+				"polarisation": "PN",
+				"region": "SANQUHAR",
+				"ngr": "SCOT",
+				"maidenhead": "NS8910"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					97.04166666666667,
 					103.64583333333333
 				],
