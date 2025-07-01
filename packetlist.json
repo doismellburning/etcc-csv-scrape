@@ -173,26 +173,6 @@
 			"properties": {
 				"callsign": "GB7AUG",
 				"keeper": "GM5AUG",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "PX",
-				"region": "NEWTON MEARNS",
-				"ngr": "SCOT",
-				"maidenhead": "NS5355"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					89.04166666666667,
-					92.52083333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7AUG",
-				"keeper": "GM5AUG",
 				"band": "40M",
 				"frequency": "7.045740",
 				"polarisation": "PX",
@@ -2699,6 +2679,26 @@
 				"region": "STOKE-ON-TRENT",
 				"ngr": "CEN",
 				"maidenhead": "SJ8952"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7STO",
+				"keeper": "GM5AUG",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "STORNOWAY",
+				"ngr": "SCOT",
+				"maidenhead": ""
 			}
 		},
 		{
@@ -6325,8 +6325,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					89.04166666666667,
-					92.52083333333333
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -6336,9 +6336,9 @@
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "AP",
-				"region": "NEWTON MEARNS",
+				"region": "STORNOWAY",
 				"ngr": "SCOT",
-				"maidenhead": "NS5355"
+				"maidenhead": ""
 			}
 		},
 		{
