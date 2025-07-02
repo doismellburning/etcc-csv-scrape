@@ -2645,8 +2645,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					86.875,
+					-79.47916666666667
 				],
 				"type": "Point"
 			},
@@ -2658,7 +2658,7 @@
 				"polarisation": "PX",
 				"region": "STORNOWAY",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NB4135"
 			}
 		},
 		{
@@ -5245,8 +5245,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					184.70833333333331,
+					97.35416666666666
 				],
 				"type": "Point"
 			},
@@ -5258,7 +5258,7 @@
 				"polarisation": "AP",
 				"region": "HOLSWORTHY",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SS3811"
 			}
 		},
 		{
@@ -6305,8 +6305,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					86.875,
+					-79.47916666666667
 				],
 				"type": "Point"
 			},
@@ -6318,7 +6318,7 @@
 				"polarisation": "AP",
 				"region": "STORNOWAY",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NB4135"
 			}
 		},
 		{
