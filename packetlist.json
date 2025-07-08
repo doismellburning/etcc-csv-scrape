@@ -3325,6 +3325,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB0LUR",
+				"keeper": "2E0JKI",
+				"band": "",
+				"frequency": "21.096100",
+				"polarisation": "PX",
+				"region": "LANCASTER",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					184.625,
 					60.35416666666667
 				],
@@ -5799,6 +5819,26 @@
 				"region": "NORTH WALSHAM",
 				"ngr": "EA",
 				"maidenhead": "TG2729"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UJH",
+				"keeper": "M7JVH",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "RAINHILL",
+				"ngr": "NOR",
+				"maidenhead": ""
 			}
 		},
 		{
