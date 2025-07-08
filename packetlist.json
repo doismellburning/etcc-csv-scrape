@@ -7685,8 +7685,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					191.125,
+					-53.3125
 				],
 				"type": "Point"
 			},
@@ -7698,7 +7698,7 @@
 				"polarisation": "AP",
 				"region": "LANCASTER",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD6769"
 			}
 		},
 		{
