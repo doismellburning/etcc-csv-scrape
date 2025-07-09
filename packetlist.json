@@ -3325,8 +3325,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					187.04166666666666,
+					-51.39583333333333
 				],
 				"type": "Point"
 			},
@@ -3338,7 +3338,7 @@
 				"polarisation": "PX",
 				"region": "LANCASTER",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD4957"
 			}
 		},
 		{
@@ -5825,8 +5825,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					187.375,
+					7.354166666666666
 				],
 				"type": "Point"
 			},
@@ -5838,7 +5838,7 @@
 				"polarisation": "AP",
 				"region": "RAINHILL",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SJ4891"
 			}
 		},
 		{
