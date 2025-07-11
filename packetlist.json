@@ -4685,8 +4685,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					198.70833333333331,
+					37.60416666666667
 				],
 				"type": "Point"
 			},
@@ -4698,7 +4698,7 @@
 				"polarisation": "AP",
 				"region": "BRIGHTLINGSEA",
 				"ngr": "EA",
-				"maidenhead": ""
+				"maidenhead": "TM0817"
 			}
 		},
 		{
