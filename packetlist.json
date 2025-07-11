@@ -3785,8 +3785,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					179.04166666666666,
-					118.6875
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -3794,11 +3794,11 @@
 				"callsign": "MB7NPW",
 				"keeper": "M0AHN",
 				"band": "6M",
-				"frequency": "50.650000",
+				"frequency": "50.670000",
 				"polarisation": "PN",
 				"region": "PEWSEY",
 				"ngr": "SW",
-				"maidenhead": "SU0959"
+				"maidenhead": ""
 			}
 		},
 		{
