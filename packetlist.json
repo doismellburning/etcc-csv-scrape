@@ -3785,8 +3785,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					179.04166666666666,
+					118.6875
 				],
 				"type": "Point"
 			},
@@ -3798,7 +3798,7 @@
 				"polarisation": "PN",
 				"region": "PEWSEY",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SU0959"
 			}
 		},
 		{
