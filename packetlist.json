@@ -4245,6 +4245,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7PWU",
+				"keeper": "M0OFX",
+				"band": "70CM",
+				"frequency": "439.987500",
+				"polarisation": "PX",
+				"region": "LEEDS",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					189.125,
 					50.645833333333336
 				],
