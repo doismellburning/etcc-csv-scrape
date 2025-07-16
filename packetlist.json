@@ -5705,8 +5705,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					188.95833333333331,
+					90.47916666666666
 				],
 				"type": "Point"
 			},
@@ -5718,7 +5718,7 @@
 				"polarisation": "AP",
 				"region": "ILFRACOMBE",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SS5144"
 			}
 		},
 		{
