@@ -5965,8 +5965,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					210.79166666666666,
+					-33.5625
 				],
 				"type": "Point"
 			},
@@ -5978,7 +5978,7 @@
 				"polarisation": "AP",
 				"region": "KING'S LYNN",
 				"ngr": "CEN",
-				"maidenhead": ""
+				"maidenhead": "TF6723"
 			}
 		},
 		{
