@@ -1325,6 +1325,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7ESC",
+				"keeper": "G0WDA",
+				"band": "20M",
+				"frequency": "14.107500",
+				"polarisation": "PX",
+				"region": "BLACKPOOL",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					197.375,
 					142.4375
 				],
