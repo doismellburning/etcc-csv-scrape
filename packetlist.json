@@ -1325,8 +1325,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					184.875,
+					-59.479166666666664
 				],
 				"type": "Point"
 			},
@@ -1338,7 +1338,7 @@
 				"polarisation": "PX",
 				"region": "BLACKPOOL",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD3135"
 			}
 		},
 		{
