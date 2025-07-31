@@ -5185,6 +5185,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					186.875,
+					93.64583333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UCY",
+				"keeper": "M0WWD",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "CROYDE",
+				"ngr": "SW",
+				"maidenhead": "SS4438"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					87.20833333333334,
 					91.5625
 				],
