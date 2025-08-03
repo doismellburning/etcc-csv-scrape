@@ -5465,8 +5465,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					186.79166666666666,
+					93.5625
 				],
 				"type": "Point"
 			},
@@ -5478,7 +5478,7 @@
 				"polarisation": "AP",
 				"region": "BIDEFORD",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SS4426"
 			}
 		},
 		{
