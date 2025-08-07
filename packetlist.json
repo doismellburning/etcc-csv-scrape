@@ -6785,20 +6785,20 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					190.625,
-					114.5625
+					0,
+					0
 				],
 				"type": "Point"
 			},
 			"properties": {
 				"callsign": "MB7UP",
-				"keeper": "M0PVO",
+				"keeper": "M0NFZ",
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
-				"region": "PORTSMOUTH",
+				"region": "PORTSMOUTH ",
 				"ngr": "SW",
-				"maidenhead": "SU6506"
+				"maidenhead": ""
 			}
 		},
 		{
