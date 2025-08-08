@@ -6785,8 +6785,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					190.625,
+					114.5625
 				],
 				"type": "Point"
 			},
@@ -6798,7 +6798,7 @@
 				"polarisation": "AP",
 				"region": "PORTSMOUTH ",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SU6506"
 			}
 		},
 		{
