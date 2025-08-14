@@ -7745,8 +7745,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					190.95833333333331,
+					68.60416666666666
 				],
 				"type": "Point"
 			},
@@ -7758,7 +7758,7 @@
 				"polarisation": "AP",
 				"region": "TOWCESTER",
 				"ngr": "CEN",
-				"maidenhead": ""
+				"maidenhead": "SP6947"
 			}
 		},
 		{
