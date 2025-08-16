@@ -7025,8 +7025,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					83.04166666666667,
+					162.39583333333334
 				],
 				"type": "Point"
 			},
@@ -7038,7 +7038,7 @@
 				"polarisation": "AP",
 				"region": "GRANGE VILLA",
 				"ngr": "XXX",
-				"maidenhead": ""
+				"maidenhead": "NZ2352"
 			}
 		},
 		{
