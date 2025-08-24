@@ -4625,26 +4625,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					196.625,
-					-54.64583333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAL",
-				"keeper": "G8CAP",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "ASHTON-UNDER-LYNE",
-				"ngr": "NOR",
-				"maidenhead": "SD9601"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					83.125,
 					167.52083333333334
 				],
@@ -5699,6 +5679,26 @@
 				"region": "ST. HELENS",
 				"ngr": "NOR",
 				"maidenhead": "SJ5392"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHG",
+				"keeper": "G8CAP",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "DENTON",
+				"ngr": "NOR",
+				"maidenhead": ""
 			}
 		},
 		{
