@@ -4645,8 +4645,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					203.375,
+					78.3125
 				],
 				"type": "Point"
 			},
@@ -4658,7 +4658,7 @@
 				"polarisation": "AP",
 				"region": "ALEXANDRA PALACE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ2990"
 			}
 		},
 		{
