@@ -25,6 +25,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "2E1GW",
+				"keeper": "2E1GW",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "SOUTHGATE",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					203.375,
 					77.4375
 				],
@@ -7099,26 +7119,6 @@
 				"region": "MAYFIELD",
 				"ngr": "SE",
 				"maidenhead": "TQ5927"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					95.375,
-					89.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7USC",
-				"keeper": "GM0WUR",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "STIRLING",
-				"ngr": "SCOT",
-				"maidenhead": "NS8090"
 			}
 		},
 		{
