@@ -4705,8 +4705,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					187.29166666666666,
+					13.395833333333334
 				],
 				"type": "Point"
 			},
@@ -4718,7 +4718,7 @@
 				"polarisation": "AP",
 				"region": "SHEFFIELD",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SK4482"
 			}
 		},
 		{
