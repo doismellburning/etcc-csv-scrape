@@ -7165,8 +7165,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					92.70833333333334,
+					2.5625
 				],
 				"type": "Point"
 			},
@@ -7178,7 +7178,7 @@
 				"polarisation": "AP",
 				"region": "KEMNAY",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NJ7316"
 			}
 		},
 		{
