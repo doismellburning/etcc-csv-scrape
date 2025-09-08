@@ -1292,7 +1292,7 @@
 			},
 			"properties": {
 				"callsign": "GB7EHG",
-				"keeper": "M5EHG ",
+				"keeper": "M5EHG",
 				"band": "2M",
 				"frequency": "144.937500",
 				"polarisation": "PX",
@@ -1696,7 +1696,7 @@
 				"band": "2M",
 				"frequency": "144.950000",
 				"polarisation": "PX",
-				"region": "PORCHFIELD ",
+				"region": "PORCHFIELD",
 				"ngr": "SW",
 				"maidenhead": "SZ4491"
 			}
@@ -4336,7 +4336,7 @@
 				"band": "70CM",
 				"frequency": "439.987500",
 				"polarisation": "PX",
-				"region": "LOCHBOISDALE ",
+				"region": "LOCHBOISDALE",
 				"ngr": "SCOT",
 				"maidenhead": "NF7614"
 			}
@@ -5572,11 +5572,11 @@
 			},
 			"properties": {
 				"callsign": "MB7UFC",
-				"keeper": "GM5AUG ",
+				"keeper": "GM5AUG",
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "AP",
-				"region": "EDINBURGH ",
+				"region": "EDINBURGH",
 				"ngr": "SCOT",
 				"maidenhead": "NT2573"
 			}
@@ -6596,7 +6596,7 @@
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
-				"region": "NORWICH ",
+				"region": "NORWICH",
 				"ngr": "EA",
 				"maidenhead": "TG3112"
 			}
@@ -7656,7 +7656,7 @@
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
-				"region": "SWANSEA ",
+				"region": "SWANSEA",
 				"ngr": "WM",
 				"maidenhead": "SN6800"
 			}
