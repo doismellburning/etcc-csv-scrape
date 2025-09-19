@@ -7165,26 +7165,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					208.79166666666666,
-					78.60416666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7USA",
-				"keeper": "G8WBI",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "TBC",
-				"ngr": "SE",
-				"maidenhead": "TQ5927"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					92.70833333333334,
 					2.5625
 				],
