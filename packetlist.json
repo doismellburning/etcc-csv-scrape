@@ -1545,46 +1545,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					96.70833333333334,
-					1.3124999999999998
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7HIB",
-				"keeper": "MM0RFN",
-				"band": "40M",
-				"frequency": "7.049000",
-				"polarisation": "PX",
-				"region": "ABERDEEN",
-				"ngr": "SCOT",
-				"maidenhead": "NJ9210"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					96.70833333333334,
-					1.3124999999999998
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7HIB",
-				"keeper": "MM0RFN",
-				"band": "70CM",
-				"frequency": "432.625000",
-				"polarisation": "PX",
-				"region": "ABERDEEN",
-				"ngr": "SCOT",
-				"maidenhead": "NJ9210"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					93.375,
 					-13.5625
 				],
