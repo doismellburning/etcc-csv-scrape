@@ -2165,8 +2165,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					190.70833333333331,
+					117.3125
 				],
 				"type": "Point"
 			},
@@ -2178,7 +2178,7 @@
 				"polarisation": "PX",
 				"region": "WATERLOOVILLE",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SU6810"
 			}
 		},
 		{
