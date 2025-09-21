@@ -393,7 +393,7 @@
 			"properties": {
 				"callsign": "GB7BDH",
 				"keeper": "G4WQG",
-				"band": "",
+				"band": "10M",
 				"frequency": "28.130000",
 				"polarisation": "PX",
 				"region": "BROAD HINTON",
@@ -3433,7 +3433,7 @@
 			"properties": {
 				"callsign": "MB0LUR",
 				"keeper": "2E0JKI",
-				"band": "",
+				"band": "15M",
 				"frequency": "21.096100",
 				"polarisation": "PX",
 				"region": "LANCASTER",
