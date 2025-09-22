@@ -7925,6 +7925,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					194.70833333333331,
+					50.47916666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UXI",
+				"keeper": "M0PCB",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "GLOUCESTER",
+				"ngr": "SW",
+				"maidenhead": "SO8114"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					83.125,
 					168.35416666666669
 				],
