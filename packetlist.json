@@ -1353,8 +1353,8 @@
 			"properties": {
 				"callsign": "GB7ESC",
 				"keeper": "G0WDA",
-				"band": "20M",
-				"frequency": "14.107500",
+				"band": "40M",
+				"frequency": "7.050000",
 				"polarisation": "PX",
 				"region": "BLACKPOOL",
 				"ngr": "NOR",
