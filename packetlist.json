@@ -3345,6 +3345,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "M0PJA",
+				"keeper": "M0PJA",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "KIVETON PARK",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					182.875,
 					-44.354166666666664
 				],
