@@ -1633,10 +1633,10 @@
 			"properties": {
 				"callsign": "GB7IOW",
 				"keeper": "M0NVK",
-				"band": "70CM",
-				"frequency": "432.625000",
+				"band": "2M",
+				"frequency": "144.950000",
 				"polarisation": "PX",
-				"region": "ISLE OF WIGHT",
+				"region": "PORCHFIELD",
 				"ngr": "SW",
 				"maidenhead": "SZ4491"
 			}
@@ -1645,20 +1645,20 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					187.375,
-					163.35416666666669
+					0,
+					0
 				],
 				"type": "Point"
 			},
 			"properties": {
 				"callsign": "GB7IOW",
 				"keeper": "M0NVK",
-				"band": "2M",
-				"frequency": "144.950000",
+				"band": "70CM",
+				"frequency": "439.950000",
 				"polarisation": "PX",
-				"region": "PORCHFIELD",
+				"region": "PORCHFIELD ",
 				"ngr": "SW",
-				"maidenhead": "SZ4491"
+				"maidenhead": ""
 			}
 		},
 		{
