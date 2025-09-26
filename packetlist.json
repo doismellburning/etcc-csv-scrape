@@ -7425,6 +7425,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7USX",
+				"keeper": "M0WND",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HAYWARDS HEATH",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					190.95833333333331,
 					68.64583333333333
 				],
