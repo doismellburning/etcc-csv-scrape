@@ -505,46 +505,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					212.625,
-					72.60416666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7BEX",
-				"keeper": "G7TAJ",
-				"band": "70CM",
-				"frequency": "432.675000",
-				"polarisation": "PX",
-				"region": "BEXHILL-ON-SEA",
-				"ngr": "SE",
-				"maidenhead": "TQ7307"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					212.625,
-					72.60416666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7BEX",
-				"keeper": "G7TAJ",
-				"band": "40M",
-				"frequency": "7.050000",
-				"polarisation": "PX",
-				"region": "BEXHILL-ON-SEA",
-				"ngr": "SE",
-				"maidenhead": "TQ7307"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					83.125,
 					107.64583333333333
 				],
@@ -759,6 +719,46 @@
 				"region": "BUCKINGHAM",
 				"ngr": "SE",
 				"maidenhead": "SP6934"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BWR",
+				"keeper": "G7TAJ",
+				"band": "40M",
+				"frequency": "7.050000",
+				"polarisation": "PX",
+				"region": "BRIDGWATER",
+				"ngr": "SW",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BWR",
+				"keeper": "G7TAJ",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "BRIDGWATER",
+				"ngr": "SW",
+				"maidenhead": ""
 			}
 		},
 		{
