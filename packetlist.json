@@ -705,8 +705,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					182.95833333333331,
+					103.4375
 				],
 				"type": "Point"
 			},
@@ -718,15 +718,15 @@
 				"polarisation": "PX",
 				"region": "BRIDGWATER",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "ST2443"
 			}
 		},
 		{
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					182.95833333333331,
+					103.4375
 				],
 				"type": "Point"
 			},
@@ -738,7 +738,7 @@
 				"polarisation": "PX",
 				"region": "BRIDGWATER",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "ST2443"
 			}
 		},
 		{
