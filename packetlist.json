@@ -2953,7 +2953,7 @@
 			"properties": {
 				"callsign": "GB7WIN",
 				"keeper": "G8IPG",
-				"band": "2M",
+				"band": "6M",
 				"frequency": "50.650000",
 				"polarisation": "PX",
 				"region": "WINCHESTER",
