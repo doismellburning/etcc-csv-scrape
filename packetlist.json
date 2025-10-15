@@ -4212,7 +4212,7 @@
 			},
 			"properties": {
 				"callsign": "MB7PLT",
-				"keeper": "2E0EMO",
+				"keeper": "M9TTL",
 				"band": "70CM",
 				"frequency": "439.987500",
 				"polarisation": "PX",
@@ -6492,7 +6492,7 @@
 			},
 			"properties": {
 				"callsign": "MB7UMO",
-				"keeper": "2E0EMO",
+				"keeper": "M9TTL",
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
