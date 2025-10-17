@@ -145,8 +145,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					212.875,
+					69.35416666666666
 				],
 				"type": "Point"
 			},
@@ -158,7 +158,7 @@
 				"polarisation": "AP",
 				"region": "WADHURST",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ7031"
 			}
 		},
 		{
