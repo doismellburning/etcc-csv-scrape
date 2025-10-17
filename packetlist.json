@@ -6112,7 +6112,7 @@
 			},
 			"properties": {
 				"callsign": "MB7UKH",
-				"keeper": "2E0SGG",
+				"keeper": "M8SGG",
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
@@ -6539,6 +6539,26 @@
 				"region": "GATESHEAD",
 				"ngr": "NOR",
 				"maidenhead": "NZ2563"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMT",
+				"keeper": "GM5AUG",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "STORNOWAY",
+				"ngr": "SCOT",
+				"maidenhead": ""
 			}
 		},
 		{
