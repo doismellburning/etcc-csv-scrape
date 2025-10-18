@@ -6545,8 +6545,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					86.875,
+					-79.47916666666667
 				],
 				"type": "Point"
 			},
@@ -6558,7 +6558,7 @@
 				"polarisation": "AP",
 				"region": "STORNOWAY",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NB4135"
 			}
 		},
 		{
