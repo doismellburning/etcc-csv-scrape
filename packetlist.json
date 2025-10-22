@@ -6045,8 +6045,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					194.70833333333331,
+					62.35416666666667
 				],
 				"type": "Point"
 			},
@@ -6058,7 +6058,7 @@
 				"polarisation": "AP",
 				"region": "STOKE MANDEVILLE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "SP8311"
 			}
 		},
 		{
