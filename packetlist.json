@@ -8125,8 +8125,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					184.70833333333331,
+					-58.5625
 				],
 				"type": "Point"
 			},
@@ -8138,7 +8138,7 @@
 				"polarisation": "AP",
 				"region": "SOUTHPORT",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD3213"
 			}
 		},
 		{
