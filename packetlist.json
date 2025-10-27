@@ -6205,6 +6205,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					202.875,
+					-21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UKT",
+				"keeper": "M8LSR",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "NORTH WALSHAM",
+				"ngr": "EA",
+				"maidenhead": "TG2930"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					210.79166666666666,
 					-33.5625
 				],
