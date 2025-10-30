@@ -105,26 +105,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					182.70833333333331,
-					3.354166666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "G4BVE",
-				"keeper": "G4BVE",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "AP",
-				"region": "WELSHPOOL",
-				"ngr": "WM",
-				"maidenhead": "SJ2411"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					202.95833333333331,
 					78.64583333333333
 				],
