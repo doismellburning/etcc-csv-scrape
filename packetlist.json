@@ -105,6 +105,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "G4BVE",
+				"keeper": "G4BVE",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "WORTHEN",
+				"ngr": " SHREWSBURY",
+				"maidenhead": "CEN"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					202.95833333333331,
 					78.64583333333333
 				],
