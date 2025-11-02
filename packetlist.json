@@ -8005,8 +8005,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					191.125,
-					-53.3125
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -8016,9 +8016,9 @@
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
-				"region": "LANCASTER",
+				"region": "HIGH BENTHAM",
 				"ngr": "NOR",
-				"maidenhead": "SD6769"
+				"maidenhead": ""
 			}
 		},
 		{
