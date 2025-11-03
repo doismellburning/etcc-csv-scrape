@@ -8005,8 +8005,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					191.125,
+					-54.3125
 				],
 				"type": "Point"
 			},
@@ -8018,7 +8018,7 @@
 				"polarisation": "AP",
 				"region": "HIGH BENTHAM",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD6669"
 			}
 		},
 		{
