@@ -6352,7 +6352,7 @@
 			},
 			"properties": {
 				"callsign": "MB7ULU",
-				"keeper": "M0JKS",
+				"keeper": "G1JKS",
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "AP",
@@ -6912,7 +6912,7 @@
 			},
 			"properties": {
 				"callsign": "MB7UNY",
-				"keeper": "M0JKS",
+				"keeper": "G1JKS",
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "AP",
@@ -6979,6 +6979,26 @@
 				"region": "SALISBURY",
 				"ngr": "SW",
 				"maidenhead": "SU1231"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPD",
+				"keeper": "G1JKS",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "GLOSSOP",
+				"ngr": "NOR",
+				"maidenhead": ""
 			}
 		},
 		{
@@ -7972,7 +7992,7 @@
 			},
 			"properties": {
 				"callsign": "MB7UWS",
-				"keeper": "M0JKS",
+				"keeper": "G1JKS",
 				"band": "2M",
 				"frequency": "144.800000",
 				"polarisation": "AP",
