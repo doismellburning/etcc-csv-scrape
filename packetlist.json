@@ -1225,6 +1225,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7EAT",
+				"keeper": "M5KVK",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "ST NEOTS",
+				"ngr": "CEN",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					208.625,
 					77.35416666666666
 				],
