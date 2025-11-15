@@ -3325,8 +3325,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					195.20833333333331,
+					-17.604166666666668
 				],
 				"type": "Point"
 			},
@@ -3338,7 +3338,7 @@
 				"polarisation": "AP",
 				"region": "TROFARTH",
 				"ngr": "WM",
-				"maidenhead": ""
+				"maidenhead": "SH8372"
 			}
 		},
 		{
@@ -6265,8 +6265,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					187.125,
+					-52.604166666666664
 				],
 				"type": "Point"
 			},
@@ -6278,7 +6278,7 @@
 				"polarisation": "AP",
 				"region": "LANCASTER",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "SD4862"
 			}
 		},
 		{
