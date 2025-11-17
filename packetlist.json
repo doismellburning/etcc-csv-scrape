@@ -6525,8 +6525,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					82.625,
+					57.35416666666667
 				],
 				"type": "Point"
 			},
@@ -6538,7 +6538,7 @@
 				"polarisation": "AP",
 				"region": "GLENROTHES",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NO2801"
 			}
 		},
 		{
