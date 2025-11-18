@@ -4866,7 +4866,7 @@
 			"geometry": {
 				"coordinates": [
 					194.95833333333331,
-					-15.354166666666666
+					94.64583333333333
 				],
 				"type": "Point"
 			},
@@ -4878,7 +4878,7 @@
 				"polarisation": "AP",
 				"region": "PORLOCK",
 				"ngr": "SW",
-				"maidenhead": "SH8548"
+				"maidenhead": "SS8548"
 			}
 		},
 		{
