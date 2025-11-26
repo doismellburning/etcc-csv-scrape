@@ -3745,6 +3745,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NFK",
+				"keeper": "M1CMN",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PN",
+				"region": "FOLKESTONE",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					205.375,
 					77.5625
 				],
