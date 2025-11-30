@@ -2365,8 +2365,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					181.20833333333331,
-					101.35416666666666
+					0,
+					0
 				],
 				"type": "Point"
 			},
@@ -2374,11 +2374,11 @@
 				"callsign": "GB7NXT",
 				"keeper": "MW0NXT",
 				"band": "2M",
-				"frequency": "144.950000",
+				"frequency": "144.937500",
 				"polarisation": "PX",
 				"region": "WENVOE",
 				"ngr": "WM",
-				"maidenhead": "ST1271"
+				"maidenhead": ""
 			}
 		},
 		{
