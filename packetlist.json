@@ -3465,26 +3465,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "M0TEC",
-				"keeper": "M0TEC",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "HARLOW",
-				"ngr": "EA",
-				"maidenhead": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					193.125,
 					49.645833333333336
 				],
@@ -5959,6 +5939,26 @@
 				"region": "HOLYHEAD",
 				"ngr": "WM",
 				"maidenhead": "SH2381"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHL",
+				"keeper": "M0TEC",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HARLOW",
+				"ngr": "EA",
+				"maidenhead": ""
 			}
 		},
 		{
