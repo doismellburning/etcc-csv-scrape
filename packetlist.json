@@ -1625,6 +1625,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7HXA",
+				"keeper": "G4UXV",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "HUNTINGDON",
+				"ngr": "CEN",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					83.20833333333334,
 					167.3125
 				],
