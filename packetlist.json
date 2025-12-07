@@ -5765,26 +5765,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					93.04166666666667,
-					102.47916666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UHD",
-				"keeper": "GM7LUN",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "DUNS",
-				"ngr": "SCOT",
-				"maidenhead": "NT7354"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					189.375,
 					2.3958333333333335
 				],
