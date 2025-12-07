@@ -4134,47 +4134,7 @@
 				"callsign": "MB7NSK",
 				"keeper": "GM7LUN",
 				"band": "70CM",
-				"frequency": "439.900000",
-				"polarisation": "PN",
-				"region": "SELKIRK",
-				"ngr": "SCOT",
-				"maidenhead": "NT5029"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					88.79166666666667,
-					99.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NSK",
-				"keeper": "GM7LUN",
-				"band": "70CM",
 				"frequency": "432.650000",
-				"polarisation": "PN",
-				"region": "SELKIRK",
-				"ngr": "SCOT",
-				"maidenhead": "NT5029"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					88.79166666666667,
-					99.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NSK",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "439.900000",
 				"polarisation": "PN",
 				"region": "SELKIRK",
 				"ngr": "SCOT",
@@ -5425,6 +5385,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UDU",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "DUNS ",
+				"ngr": "SCOT",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					192.625,
 					-46.354166666666664
 				],
@@ -6279,6 +6259,26 @@
 				"region": "LANCASTER",
 				"ngr": "NOR",
 				"maidenhead": "SD4862"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7ULD",
+				"keeper": "GM7LUN",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "SELKIRK",
+				"ngr": "SCOT",
+				"maidenhead": ""
 			}
 		},
 		{
