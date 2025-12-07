@@ -3625,26 +3625,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					86.79166666666667,
-					105.64583333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NCB",
-				"keeper": "GM7LUN",
-				"band": "4M",
-				"frequency": "70.325000",
-				"polarisation": "PN",
-				"region": "SELKIRK",
-				"ngr": "SCOT",
-				"maidenhead": "NT4628"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					205.04166666666666,
 					72.60416666666666
 				],
@@ -3799,66 +3779,6 @@
 				"region": "CHINGFORD",
 				"ngr": "SE",
 				"maidenhead": "TQ3896"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					88.70833333333334,
-					100.47916666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NHW",
-				"keeper": "GM7LUN",
-				"band": "4M",
-				"frequency": "70.325000",
-				"polarisation": "PN",
-				"region": "HAWICK",
-				"ngr": "SCOT",
-				"maidenhead": "NT5114"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					88.70833333333334,
-					100.47916666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NHW",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "439.900000",
-				"polarisation": "PN",
-				"region": "HAWICK",
-				"ngr": "SCOT",
-				"maidenhead": "NT5114"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					88.70833333333334,
-					100.47916666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NHW",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "432.650000",
-				"polarisation": "PN",
-				"region": "HAWICK",
-				"ngr": "SCOT",
-				"maidenhead": "NT5114"
 			}
 		},
 		{
