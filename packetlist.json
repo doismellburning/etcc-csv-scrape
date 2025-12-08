@@ -3525,26 +3525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					187.04166666666666,
-					-51.39583333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB0LUR",
-				"keeper": "2E0JKI",
-				"band": "15M",
-				"frequency": "21.096100",
-				"polarisation": "PX",
-				"region": "LANCASTER",
-				"ngr": "NOR",
-				"maidenhead": "SD4957"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					184.625,
 					60.35416666666667
 				],
