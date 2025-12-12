@@ -685,6 +685,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7BUK",
+				"keeper": "M1TLK",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PX",
+				"region": "BUCKINGHAM",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					190.875,
 					68.47916666666666
 				],
