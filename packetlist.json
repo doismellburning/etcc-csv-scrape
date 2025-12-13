@@ -685,8 +685,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					190.875,
+					68.47916666666666
 				],
 				"type": "Point"
 			},
@@ -698,7 +698,7 @@
 				"polarisation": "PX",
 				"region": "BUCKINGHAM",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "SP6934"
 			}
 		},
 		{
@@ -2745,8 +2745,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					202.875,
+					81.5625
 				],
 				"type": "Point"
 			},
@@ -2758,7 +2758,7 @@
 				"polarisation": "PX",
 				"region": "FOLKESTONE",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TR2236"
 			}
 		},
 		{
