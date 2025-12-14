@@ -3365,8 +3365,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					84.95833333333334,
+					51.645833333333336
 				],
 				"type": "Point"
 			},
@@ -3378,7 +3378,7 @@
 				"polarisation": "AP",
 				"region": "KIRRIEMUIR",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NO3248"
 			}
 		},
 		{
