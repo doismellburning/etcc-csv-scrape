@@ -4565,26 +4565,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					95.04166666666667,
-					153.5625
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UAE",
-				"keeper": "M0UKB",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "ALLENDALE",
-				"ngr": "NOR",
-				"maidenhead": "NY8456"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					192.625,
 					60.520833333333336
 				],
