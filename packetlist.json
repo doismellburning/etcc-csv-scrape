@@ -3405,6 +3405,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GM5JPB",
+				"keeper": "GM5JPB",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LIVINGSTON",
+				"ngr": "SCOT",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					195.20833333333331,
 					-17.604166666666668
 				],
