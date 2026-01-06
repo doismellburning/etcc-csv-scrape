@@ -3845,6 +3845,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NJD",
+				"keeper": "M0SDJ",
+				"band": "70CM",
+				"frequency": "432.675000",
+				"polarisation": "PN",
+				"region": "BOUGHTON ALUPH",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					93.29166666666667,
 					92.3125
 				],
