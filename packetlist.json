@@ -1805,6 +1805,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7KSE",
+				"keeper": "G7KSE",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "ST BEES",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					197.20833333333331,
 					118.6875
 				],
