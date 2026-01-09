@@ -1805,8 +1805,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					96.70833333333334,
+					146.35416666666669
 				],
 				"type": "Point"
 			},
@@ -1818,7 +1818,7 @@
 				"polarisation": "PX",
 				"region": "ST BEES",
 				"ngr": "NOR",
-				"maidenhead": ""
+				"maidenhead": "NX9711"
 			}
 		},
 		{
@@ -6699,6 +6699,26 @@
 				"region": "LOUGHTON",
 				"ngr": "SE",
 				"maidenhead": "TQ4397"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					195.29166666666666,
+					97.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMR",
+				"keeper": "GW0KAX",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "ABERKENFIG",
+				"ngr": "WM",
+				"maidenhead": "SS8884"
 			}
 		},
 		{
