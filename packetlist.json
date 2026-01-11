@@ -8540,6 +8540,26 @@
 				"ngr": "SCOT",
 				"maidenhead": "NS8844"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MW3ASG",
+				"keeper": "MW3ASG",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CARDIFF",
+				"ngr": "WM",
+				"maidenhead": ""
+			}
 		}
 	]
 }
