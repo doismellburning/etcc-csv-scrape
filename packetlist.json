@@ -8560,6 +8560,26 @@
 				"ngr": "WM",
 				"maidenhead": ""
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MW3ASG",
+				"keeper": "MW3ASG",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "CARDIFF",
+				"ngr": "WM",
+				"maidenhead": ""
+			}
 		}
 	]
 }
