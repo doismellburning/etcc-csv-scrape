@@ -3945,46 +3945,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					86.875,
-					105.52083333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NLS",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "432.650000",
-				"polarisation": "PN",
-				"region": "GALASHIELS",
-				"ngr": "SCOT",
-				"maidenhead": "NT4635"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					86.875,
-					105.52083333333333
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7NLS",
-				"keeper": "GM7LUN",
-				"band": "70CM",
-				"frequency": "439.900000",
-				"polarisation": "PN",
-				"region": "GALASHIELS",
-				"ngr": "SCOT",
-				"maidenhead": "NT4635"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					194.875,
 					64.6875
 				],
