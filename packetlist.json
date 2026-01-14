@@ -1825,46 +1825,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					197.20833333333331,
-					118.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7LAN",
-				"keeper": "2E0PHR",
-				"band": "70CM",
-				"frequency": "432.675000",
-				"polarisation": "PX",
-				"region": "SLOUGH",
-				"ngr": "SW",
-				"maidenhead": "SU9979"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					197.20833333333331,
-					118.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7LAN",
-				"keeper": "2E0PHR",
-				"band": "2M",
-				"frequency": "144.937500",
-				"polarisation": "PX",
-				"region": "LANGLEY",
-				"ngr": "SW",
-				"maidenhead": "SU9979"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					197.125,
 					15.645833333333334
 				],
