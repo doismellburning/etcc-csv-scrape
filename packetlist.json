@@ -85,8 +85,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					191.04166666666666,
+					110.47916666666666
 				],
 				"type": "Point"
 			},
@@ -98,7 +98,7 @@
 				"polarisation": "AP",
 				"region": "BASINGSTOKE",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SU6154"
 			}
 		},
 		{
