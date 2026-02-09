@@ -7325,8 +7325,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					188.875,
+					14.4375
 				],
 				"type": "Point"
 			},
@@ -7338,7 +7338,7 @@
 				"polarisation": "AP",
 				"region": "NOTTINGHAM",
 				"ngr": "CEN",
-				"maidenhead": ""
+				"maidenhead": "SK5533"
 			}
 		},
 		{
