@@ -18,10 +18,12 @@
     "default": {
         "maidenhead": {
             "hashes": [
-                "sha256:36415dce8f630927e59232c88d08135218d3281950b3d3eb5d7caa04a7623f74"
+                "sha256:38f318fbdf29ec995bd45e81f33bfa1f905129a154f0aa0334452f90e6c705bf",
+                "sha256:ddc33fb370e0c3ce917be6040474ecb4c27ccc33b3dc9348536b73b5884bb68a"
             ],
             "index": "pypi",
-            "version": "==1.7.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==1.8.0"
         }
     },
     "develop": {}
