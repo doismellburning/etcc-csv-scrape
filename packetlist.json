@@ -1393,26 +1393,6 @@
 			"properties": {
 				"callsign": "GB7ESC",
 				"keeper": "G0WDA",
-				"band": "70CM",
-				"frequency": "439.950000",
-				"polarisation": "PX",
-				"region": "BLACKPOOL",
-				"ngr": "NOR",
-				"maidenhead": "SD3135"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					184.875,
-					-59.479166666666664
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7ESC",
-				"keeper": "G0WDA",
 				"band": "40M",
 				"frequency": "7.050000",
 				"polarisation": "PX",
