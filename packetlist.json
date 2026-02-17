@@ -505,8 +505,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					212.625,
+					70.60416666666666
 				],
 				"type": "Point"
 			},
@@ -518,7 +518,7 @@
 				"polarisation": "PX",
 				"region": "BEXHILL-ON-SEA",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ7107"
 			}
 		},
 		{
