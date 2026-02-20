@@ -6485,26 +6485,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					183.125,
-					2.479166666666667
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UMD",
-				"keeper": "GW0TQM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "MOLD",
-				"ngr": "WM",
-				"maidenhead": "SJ2364"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					194.875,
 					93.5625
 				],
