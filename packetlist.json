@@ -3205,6 +3205,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WOR",
+				"keeper": "G7TWZ",
+				"band": "6M",
+				"frequency": "50.660000",
+				"polarisation": "PX",
+				"region": "WORCESTER PARK",
+				"ngr": "SE",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					191.125,
 					4.5625
 				],
