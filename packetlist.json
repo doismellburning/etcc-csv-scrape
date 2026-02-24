@@ -3205,8 +3205,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					203.125,
+					71.5625
 				],
 				"type": "Point"
 			},
@@ -3218,7 +3218,7 @@
 				"polarisation": "PX",
 				"region": "WORCESTER PARK",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TQ2266"
 			}
 		},
 		{
