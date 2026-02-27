@@ -2625,20 +2625,20 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					191.20833333333331,
-					116.39583333333333
+					0,
+					0
 				],
 				"type": "Point"
 			},
 			"properties": {
 				"callsign": "GB7RDG",
 				"keeper": "M0LTE",
-				"band": "40M",
-				"frequency": "7.051500",
+				"band": "6M",
+				"frequency": "50.660000",
 				"polarisation": "PX",
 				"region": "READING",
 				"ngr": "SW",
-				"maidenhead": "SU6772"
+				"maidenhead": ""
 			}
 		},
 		{
@@ -2653,8 +2653,8 @@
 			"properties": {
 				"callsign": "GB7RDG",
 				"keeper": "M0LTE",
-				"band": "6M",
-				"frequency": "50.650000",
+				"band": "40M",
+				"frequency": "7.051500",
 				"polarisation": "PX",
 				"region": "READING",
 				"ngr": "SW",
