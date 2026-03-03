@@ -1985,8 +1985,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					91.375,
+					36.35416666666667
 				],
 				"type": "Point"
 			},
@@ -1998,7 +1998,7 @@
 				"polarisation": "PX",
 				"region": "MORAR",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NM6791"
 			}
 		},
 		{
