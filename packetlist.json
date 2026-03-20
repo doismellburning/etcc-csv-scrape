@@ -7365,8 +7365,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					198.79166666666666,
+					87.35416666666666
 				],
 				"type": "Point"
 			},
@@ -7378,7 +7378,7 @@
 				"polarisation": "AP",
 				"region": "NEW ROMNEY",
 				"ngr": "SE",
-				"maidenhead": ""
+				"maidenhead": "TR0821"
 			}
 		},
 		{
