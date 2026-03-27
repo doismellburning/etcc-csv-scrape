@@ -1205,6 +1205,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CQV",
+				"keeper": "GM0CQV",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "EAST WEMYSS",
+				"ngr": "SCOT",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					83.375,
 					101.52083333333333
 				],
