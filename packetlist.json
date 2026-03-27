@@ -1205,26 +1205,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					94.625,
-					2.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CQV",
-				"keeper": "GM0CQV",
-				"band": "70CM",
-				"frequency": "432.625000",
-				"polarisation": "PX",
-				"region": "PETERCULTER",
-				"ngr": "SCOT",
-				"maidenhead": "NJ8300"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					83.375,
 					101.52083333333333
 				],
