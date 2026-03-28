@@ -1205,8 +1205,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					85.375,
+					102.5625
 				],
 				"type": "Point"
 			},
@@ -1218,7 +1218,7 @@
 				"polarisation": "PX",
 				"region": "EAST WEMYSS",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NT3396"
 			}
 		},
 		{
