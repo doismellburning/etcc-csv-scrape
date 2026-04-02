@@ -125,8 +125,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					184.625,
+					1.4791666666666667
 				],
 				"type": "Point"
 			},
@@ -136,9 +136,9 @@
 				"band": "70CM",
 				"frequency": "439.912500",
 				"polarisation": "AP",
-				"region": "WORTHEN",
-				"ngr": " SHREWSBURY",
-				"maidenhead": "CEN"
+				"region": "WORTHEN  SHREWSBURY",
+				"ngr": "CEN",
+				"maidenhead": "SJ3204"
 			}
 		},
 		{
