@@ -2845,6 +2845,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					194.95833333333331,
+					6.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7STO",
+				"keeper": "G0NMY",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "STOKE-ON-TRENT",
+				"ngr": "CEN",
+				"maidenhead": "SJ8746"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					82.70833333333334,
 					165.60416666666669
 				],
