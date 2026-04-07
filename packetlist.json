@@ -2125,6 +2125,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7NBH",
+				"keeper": "G4OTJ",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "FARMBOROUGH",
+				"ngr": "SW",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					191.125,
 					102.3125
 				],
