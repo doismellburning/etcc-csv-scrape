@@ -2125,8 +2125,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					191.125,
+					102.3125
 				],
 				"type": "Point"
 			},
@@ -2138,7 +2138,7 @@
 				"polarisation": "PX",
 				"region": "FARMBOROUGH",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "ST6360"
 			}
 		},
 		{
