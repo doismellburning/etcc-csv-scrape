@@ -653,8 +653,8 @@
 			"properties": {
 				"callsign": "GB7BSK",
 				"keeper": "2E0HKD",
-				"band": "2M",
-				"frequency": "144.937500",
+				"band": "70CM",
+				"frequency": "432.625000",
 				"polarisation": "PX",
 				"region": "BASINGSTOKE",
 				"ngr": "SW",
@@ -665,20 +665,20 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					191.04166666666666,
-					110.4375
+					0,
+					0
 				],
 				"type": "Point"
 			},
 			"properties": {
 				"callsign": "GB7BSK",
 				"keeper": "2E0HKD",
-				"band": "70CM",
-				"frequency": "432.625000",
+				"band": "2M",
+				"frequency": "144.925000",
 				"polarisation": "PX",
 				"region": "BASINGSTOKE",
 				"ngr": "SW",
-				"maidenhead": "SU6153"
+				"maidenhead": ""
 			}
 		},
 		{
