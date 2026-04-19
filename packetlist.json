@@ -5505,6 +5505,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UEX",
+				"keeper": "M0WWD",
+				"band": "70CM",
+				"frequency": "439.912500",
+				"polarisation": "AP",
+				"region": "LYNMOUTH",
+				"ngr": "SW",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					201.20833333333331,
 					29.3125
 				],
