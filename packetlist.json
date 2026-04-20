@@ -5505,8 +5505,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					192.95833333333331,
+					93.6875
 				],
 				"type": "Point"
 			},
@@ -5518,7 +5518,7 @@
 				"polarisation": "AP",
 				"region": "LYNMOUTH",
 				"ngr": "SW",
-				"maidenhead": ""
+				"maidenhead": "SS7449"
 			}
 		},
 		{
