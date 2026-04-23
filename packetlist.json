@@ -3505,26 +3505,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					187.29166666666666,
-					18.395833333333332
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "M0PJA",
-				"keeper": "M0PJA",
-				"band": "70CM",
-				"frequency": "439.912500",
-				"polarisation": "AP",
-				"region": "KIVETON PARK",
-				"ngr": "NOR",
-				"maidenhead": "SK4982"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					182.875,
 					-44.354166666666664
 				],
@@ -8139,26 +8119,6 @@
 				"region": "TOWCESTER",
 				"ngr": "CEN",
 				"maidenhead": "SP6947"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					187.29166666666666,
-					18.395833333333332
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UWR",
-				"keeper": "M0PJA",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "SHEFFIELD",
-				"ngr": "NOR",
-				"maidenhead": "SK4982"
 			}
 		},
 		{
