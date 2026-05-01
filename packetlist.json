@@ -3665,6 +3665,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					202.875,
+					76.52083333333333
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NBG",
+				"keeper": "M0HQM",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "CRAWLEY",
+				"ngr": "SE",
+				"maidenhead": "TQ2735"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					205.04166666666666,
 					72.60416666666666
 				],
