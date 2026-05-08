@@ -5785,8 +5785,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					178.70833333333331,
+					-42.4375
 				],
 				"type": "Point"
 			},
@@ -5798,7 +5798,7 @@
 				"polarisation": "AP",
 				"region": "HUDDERSFIELD",
 				"ngr": "",
-				"maidenhead": ""
+				"maidenhead": "SE0816"
 			}
 		},
 		{
