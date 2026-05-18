@@ -1093,26 +1093,6 @@
 			"properties": {
 				"callsign": "GB7CNR",
 				"keeper": "M0JQQ",
-				"band": "70CM",
-				"frequency": "430.200000",
-				"polarisation": "PX",
-				"region": "CRAMLINGTON",
-				"ngr": "NOR",
-				"maidenhead": "NZ2576"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					83.20833333333334,
-					164.5625
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7CNR",
-				"keeper": "M0JQQ",
 				"band": "40M",
 				"frequency": "7.052750",
 				"polarisation": "PX",
