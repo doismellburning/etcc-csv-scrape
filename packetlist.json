@@ -805,6 +805,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CAM",
+				"keeper": "G0LFT",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "HARSTON",
+				"ngr": "EA",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					205.04166666666666,
 					72.60416666666666
 				],
