@@ -805,8 +805,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					207.04166666666666,
+					21.3125
 				],
 				"type": "Point"
 			},
@@ -818,7 +818,7 @@
 				"polarisation": "PX",
 				"region": "HARSTON",
 				"ngr": "EA",
-				"maidenhead": ""
+				"maidenhead": "TL4250"
 			}
 		},
 		{
