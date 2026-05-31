@@ -2605,26 +2605,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					201.20833333333331,
-					29.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "GB7PTM",
-				"keeper": "G0JSV",
-				"band": "2M",
-				"frequency": "144.950000",
-				"polarisation": "PX",
-				"region": "EYE",
-				"ngr": "EA",
-				"maidenhead": "TM1070"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					91.20833333333334,
 					91.3125
 				],
