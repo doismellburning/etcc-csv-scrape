@@ -2825,6 +2825,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					178.79166666666666,
+					102.60416666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SOM",
+				"keeper": "G4ETN",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PX",
+				"region": "CHIPSTABLE",
+				"ngr": "SW",
+				"maidenhead": "ST0327"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					195.04166666666666,
 					8.395833333333334
 				],
