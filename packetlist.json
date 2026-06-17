@@ -2826,7 +2826,7 @@
 			"geometry": {
 				"coordinates": [
 					178.79166666666666,
-					102.60416666666666
+					102.5625
 				],
 				"type": "Point"
 			},
@@ -2838,7 +2838,7 @@
 				"polarisation": "PX",
 				"region": "CHIPSTABLE",
 				"ngr": "SW",
-				"maidenhead": "ST0327"
+				"maidenhead": "ST0326"
 			}
 		},
 		{
