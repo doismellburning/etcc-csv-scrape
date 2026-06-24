@@ -7785,8 +7785,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0,
-					0
+					91.29166666666667,
+					35.5625
 				],
 				"type": "Point"
 			},
@@ -7798,7 +7798,7 @@
 				"polarisation": "AP",
 				"region": "ARISAIG",
 				"ngr": "SCOT",
-				"maidenhead": ""
+				"maidenhead": "NM6686"
 			}
 		},
 		{
