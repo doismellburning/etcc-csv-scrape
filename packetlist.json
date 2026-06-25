@@ -4765,26 +4765,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					193.125,
-					106.47916666666666
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UB",
-				"keeper": "G4KVI",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "BATH",
-				"ngr": "SW",
-				"maidenhead": "ST7764"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					191.04166666666666,
 					110.4375
 				],
@@ -5425,26 +5405,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					192.625,
-					-46.354166666666664
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UE",
-				"keeper": "M0HOM",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "EPWORTH",
-				"ngr": "NOR",
-				"maidenhead": "SE7408"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					190.70833333333331,
 					-42.604166666666664
 				],
@@ -5659,6 +5619,26 @@
 				"region": "BOZEAT",
 				"ngr": "CEN",
 				"maidenhead": "SP9259"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					192.625,
+					-46.354166666666664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UFY",
+				"keeper": "M0HOM",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "EPWORTH",
+				"ngr": "NOR",
+				"maidenhead": "SE7408"
 			}
 		},
 		{
@@ -7711,7 +7691,7 @@
 				"type": "Point"
 			},
 			"properties": {
-				"callsign": "MB7UT",
+				"callsign": "MB7UTC",
 				"keeper": "M0XER",
 				"band": "2M",
 				"frequency": "144.800000",
@@ -7759,6 +7739,26 @@
 				"region": "NORWICH",
 				"ngr": "EA",
 				"maidenhead": "TG1514"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					193.125,
+					106.47916666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UUB",
+				"keeper": "G4KVI",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BATH",
+				"ngr": "SW",
+				"maidenhead": "ST7764"
 			}
 		},
 		{
