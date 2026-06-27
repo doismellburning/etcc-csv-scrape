@@ -4925,6 +4925,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					193.20833333333331,
+					100.3125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBS",
+				"keeper": "G7FBD",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BRISTOL",
+				"ngr": "SW",
+				"maidenhead": "ST7170"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					206.625,
 					-35.3125
 				],
@@ -8499,26 +8519,6 @@
 				"region": "CROOK",
 				"ngr": "NOR",
 				"maidenhead": "NZ1637"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					193.20833333333331,
-					100.3125
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VV",
-				"keeper": "G7FBD",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "BRISTOL",
-				"ngr": "SW",
-				"maidenhead": "ST7170"
 			}
 		},
 		{
