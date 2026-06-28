@@ -4545,6 +4545,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0,
+					0
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7TX",
+				"keeper": "G6YBC ",
+				"band": "2M",
+				"frequency": "144.500000",
+				"polarisation": "RN",
+				"region": "ATHERTON ",
+				"ngr": "NOR",
+				"maidenhead": ""
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					94.625,
 					1.3958333333333333
 				],
