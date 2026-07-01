@@ -5005,26 +5005,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					204.875,
-					26.5625
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UC",
-				"keeper": "M0ZPU",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "ROYSTON",
-				"ngr": "SE",
-				"maidenhead": "TL3736"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					199.20833333333331,
 					-37.5625
 				],
@@ -6545,26 +6525,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					205.04166666666666,
-					28.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UM",
-				"keeper": "M0ZPU",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "CAMBRIDGE",
-				"ngr": "EA",
-				"maidenhead": "TL3959"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					181.125,
 					115.64583333333333
 				],
@@ -7165,6 +7125,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					201.29166666666666,
+					21.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPE",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "PETERBOROUGH",
+				"ngr": "EA",
+				"maidenhead": "TL1289"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					190.625,
 					114.5625
 				],
@@ -7179,6 +7159,26 @@
 				"region": "PORTSMOUTH",
 				"ngr": "SW",
 				"maidenhead": "SU6506"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					204.875,
+					26.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPI",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "ROYSTON",
+				"ngr": "SE",
+				"maidenhead": "TL3736"
 			}
 		},
 		{
@@ -7239,6 +7239,26 @@
 				"region": "ST.ALBANS",
 				"ngr": "SE",
 				"maidenhead": "TL1403"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					205.04166666666666,
+					28.6875
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UPY",
+				"keeper": "M0ZPU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "CAMBRIDGE",
+				"ngr": "EA",
+				"maidenhead": "TL3959"
 			}
 		},
 		{
@@ -8499,26 +8519,6 @@
 				"region": "SOUTHPORT",
 				"ngr": "NOR",
 				"maidenhead": "SD3213"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
-					201.29166666666666,
-					21.6875
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7VC",
-				"keeper": "M0ZPU",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "PETERBOROUGH",
-				"ngr": "EA",
-				"maidenhead": "TL1289"
 			}
 		},
 		{
