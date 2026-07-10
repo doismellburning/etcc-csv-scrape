@@ -4905,6 +4905,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.0416666666666667,
+					51.270833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UBK",
+				"keeper": "M7IAU",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "BASINGSTOKE",
+				"ngr": "SW",
+				"maidenhead": "IO91LG"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.7083333333333335,
 					52.9375
 				],
