@@ -6145,6 +6145,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0.4041666666666666,
+					52.31041666666666
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UJM",
+				"keeper": "M8LWA",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "PX",
+				"region": "FORDHAM ",
+				"ngr": "EA",
+				"maidenhead": "JO02EH84"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-0.7916666666666666,
 					51.8125
 				],
