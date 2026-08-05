@@ -7885,6 +7885,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					1.125,
+					52.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UTX",
+				"keeper": "M9MTX",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "WYMONDHAM",
+				"ngr": "EA",
+				"maidenhead": "JO02NO"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-2.2916666666666665,
 					51.35416666666667
 				],
