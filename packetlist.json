@@ -3005,6 +3005,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-0.7083333333333334,
+					51.60416666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7WBG",
+				"keeper": "G1FEF",
+				"band": "2M",
+				"frequency": "144.925000",
+				"polarisation": "PX",
+				"region": "WOOBURN GREEN",
+				"ngr": "SE",
+				"maidenhead": "IO91PO"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-0.2916666666666666,
 					51.5625
 				],
