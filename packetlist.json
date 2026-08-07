@@ -6805,6 +6805,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-3.875,
+					56.145833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UMQ",
+				"keeper": "MM0MQN",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "MENSTRIE",
+				"ngr": "SCOT",
+				"maidenhead": "IO86BD"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.0,
 					51.5
 				],
