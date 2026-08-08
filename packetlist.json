@@ -4225,6 +4225,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0.20833333333333331,
+					52.520833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7NTE",
+				"keeper": "G6GZH",
+				"band": "2M",
+				"frequency": "144.950000",
+				"polarisation": "PN",
+				"region": "TIPPS END",
+				"ngr": "CEN",
+				"maidenhead": "JO02CM"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-1.1249999999999998,
 					52.270833333333336
 				],
