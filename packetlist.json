@@ -6225,8 +6225,8 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					0.4041666666666666,
-					52.31041666666666
+					0.375,
+					52.3125
 				],
 				"type": "Point"
 			},
@@ -6238,7 +6238,7 @@
 				"polarisation": "PX",
 				"region": "FORDHAM ",
 				"ngr": "EA",
-				"maidenhead": "JO02EH84"
+				"maidenhead": "JO02EH"
 			}
 		},
 		{
