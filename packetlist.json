@@ -6085,6 +6085,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					0.625,
+					50.895833333333336
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "MB7UHR",
+				"keeper": "G0TJH",
+				"band": "2M",
+				"frequency": "144.800000",
+				"polarisation": "AP",
+				"region": "HASTINGS",
+				"ngr": "SE",
+				"maidenhead": "JO00HV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					0.5416666666666666,
 					50.895833333333336
 				],
