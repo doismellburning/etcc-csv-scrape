@@ -5005,26 +5005,6 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
-					-0.2916666666666666,
-					52.0625
-				],
-				"type": "Point"
-			},
-			"properties": {
-				"callsign": "MB7UBG",
-				"keeper": "M9BTX",
-				"band": "2M",
-				"frequency": "144.800000",
-				"polarisation": "AP",
-				"region": "BIGGLESWADE",
-				"ngr": "SE",
-				"maidenhead": "IO92UB"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"coordinates": [
 					-4.541666666666666,
 					57.520833333333336
 				],
