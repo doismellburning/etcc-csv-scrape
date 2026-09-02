@@ -2905,6 +2905,46 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-3.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SOM",
+				"keeper": "G4ETN",
+				"band": "4M",
+				"frequency": "70.312500",
+				"polarisation": "PX",
+				"region": "TAUNTON",
+				"ngr": "SW",
+				"maidenhead": "IO81"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-3.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SOM",
+				"keeper": "G4ETN",
+				"band": "70CM",
+				"frequency": "439.950000",
+				"polarisation": "PX",
+				"region": "TAUNTON",
+				"ngr": "SW",
+				"maidenhead": "IO81"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.375,
 					51.020833333333336
 				],
