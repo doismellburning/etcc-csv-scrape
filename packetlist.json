@@ -233,6 +233,26 @@
 			"properties": {
 				"callsign": "GB7AGM",
 				"keeper": "G3AGM",
+				"band": "40M",
+				"frequency": "7.051600",
+				"polarisation": "PX",
+				"region": "SAFFRON WALDEN",
+				"ngr": "EA",
+				"maidenhead": "JO01BX"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					0.125,
+					51.97916666666667
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7AGM",
+				"keeper": "G3AGM",
 				"band": "2M",
 				"frequency": "144.950000",
 				"polarisation": "PX",
