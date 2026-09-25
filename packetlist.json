@@ -1245,6 +1245,46 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-4.625,
+					55.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CXF",
+				"keeper": "GM4CXF",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "TROON",
+				"ngr": "SCOT",
+				"maidenhead": "IO75QN"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					-4.625,
+					55.5625
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7CXF",
+				"keeper": "GM4CXF",
+				"band": "40M",
+				"frequency": "7.049450",
+				"polarisation": "PX",
+				"region": "TROON",
+				"ngr": "SCOT",
+				"maidenhead": "IO75QN"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-3.0,
 					56.5
 				],
