@@ -2885,6 +2885,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.9583333333333333,
+					52.9375
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7SAM",
+				"keeper": "M1RKY",
+				"band": "2M",
+				"frequency": "144.937500",
+				"polarisation": "PX",
+				"region": "TEAN",
+				"ngr": "CEN",
+				"maidenhead": "IO92AW"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					1.2083333333333335,
 					51.10416666666667
 				],
