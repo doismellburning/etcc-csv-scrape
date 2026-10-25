@@ -23,6 +23,13 @@ jobs:
       - name: Fetch
         run: |
           make --always-make packetlist.csv
+      - name: Dump CSV head and tail
+        run: |
+          wc -l packetlist.csv
+          echo "--- head ---"
+          head -n 10 packetlist.csv
+          echo "--- tail ---"
+          tail -n 10 packetlist.csv
       - name: Transform
         run: |
           make packetlist.json
