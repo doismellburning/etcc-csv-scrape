@@ -2705,6 +2705,26 @@
 			"type": "Feature",
 			"geometry": {
 				"coordinates": [
+					-1.0,
+					51.5
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"callsign": "GB7PTR",
+				"keeper": "M7TAW",
+				"band": "40M",
+				"frequency": "7.051600",
+				"polarisation": "PX",
+				"region": "PETERSFIELD",
+				"ngr": "SW",
+				"maidenhead": "IO91"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
 					-4.208333333333333,
 					55.895833333333336
 				],
