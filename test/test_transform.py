@@ -50,3 +50,11 @@ def test_multiple_rows(tmp_path):
     geo = run_transform(tmp_path, [row, row])
 
     assert len(geo["features"]) == 2
+
+
+def test_header_row_is_skipped(tmp_path):
+    header = ["Callsign", "Sysop", "Band", "TX", "Type", "Where", "Region", "Locator", "lat", "lon", ""]
+    row = ["GB7XX", "G0ABC", "2M", "144.800000", "AP", "SOUTHGATE", "SE", "IO91WP", "51.63", "-0.138", ""]
+    geo = run_transform(tmp_path, [header, row])
+
+    assert [f["properties"]["callsign"] for f in geo["features"]] == ["GB7XX"]
