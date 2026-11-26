@@ -15,6 +15,11 @@ MIN_FIELDS = 8  # transform.py reads fields 0-7
 CALLSIGN = re.compile(r"[A-Z0-9]+", re.IGNORECASE)
 
 
+def is_header(row: list[str]) -> bool:
+    """Whether row is the (optional) header row the ETCC added in 2024-08."""
+    return bool(row) and row[0].strip().lower() == "callsign"
+
+
 def validate(path: str | Path) -> list[str]:
     """Return a list of problems with the CSV at path (empty if it looks OK)."""
     try:
@@ -24,7 +29,7 @@ def validate(path: str | Path) -> list[str]:
         return [f"Could not parse as CSV: {e}"]
 
     # Optional header row
-    if rows and rows[0][1] and rows[0][1][0].strip().lower() == "callsign":
+    if rows and is_header(rows[0][1]):
         rows = rows[1:]
 
     if not rows:
