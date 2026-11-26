@@ -14,12 +14,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v7
-      - name: Python
-        uses: actions/setup-python@v7
+      - name: uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
       - name: Python setup
         run: |
-          pip install pipenv
-          pipenv install
+          make bootstrap
       - name: Fetch
         run: |
           make --always-make packetlist.csv

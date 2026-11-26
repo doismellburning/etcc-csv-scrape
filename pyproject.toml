@@ -1,0 +1,60 @@
+[project]
+name = "etcc-csv-scrape"
+version = "0"
+readme = "README.md"
+description = "Scrape ETCC packet registrations and transform them into GeoJSON"
+requires-python = ">=3.14"
+dependencies = [
+    "maidenhead",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[tool.coverage.run]
+branch = true
+dynamic_context = "test_function"
+
+[tool.coverage.report]
+fail_under = 100
+show_missing = true
+skip_covered = true
+exclude_also = [
+	'if __name__ == "__main__":',
+]
+
+[tool.coverage.html]
+show_contexts = true
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+	"F",  # pyflakes
+	"E", "W",  # pycodestyle
+	"C90",  # mccabe
+	"I",  # isort
+	"N",  # pep8-naming
+	"UP",  # pyupgrade
+	"B",  # flake8-bugbear
+	"INP",  # flake8-no-pep420
+	"PLC0415",
+	"TID253",
+	"RUF",  # Ruff-specific rules
+	"PT",  # flake8-pytest-style
+	"SIM",  # flake8-simplify
+	"PERF",  # Perflint
+	"LOG",  # flake8-logging
+]
+
+[dependency-groups]
+dev = [
+    "coverage",
+    "pytest",
+    "ruff",
+    "ty",
+]
