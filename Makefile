@@ -1,4 +1,4 @@
-CODEDIRS=transform.py test
+CODEDIRS=transform.py validate.py test
 
 .DEFAULT_GOAL := check
 
@@ -32,7 +32,7 @@ clean:
 
 .PHONY: test
 test:
-	uv run coverage run --source transform --module pytest test
+	uv run coverage run --source transform,validate --module pytest test
 	uv run coverage report
 	uv run coverage html
 
