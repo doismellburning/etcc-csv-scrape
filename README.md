@@ -14,3 +14,11 @@ or copy-paste it into https://geojson.io/ for exploration.
 * Scraping inspired by https://simonwillison.net/2020/Oct/9/git-scraping/
 * Recording GeoJSON inspired by Tom M0LTE's packet map https://packetnodes.spots.radio/etcc-packet-map.html
 * This uses data published by the ETCC, but is otherwise unconnected with the ETCC
+
+# Development
+
+Uses [uv](https://docs.astral.sh/uv/), based on https://github.com/doismellburning/python-template
+
+* `make bootstrap` to install dependencies
+* `make check` to run formatting, lint and type checks (`make fix` to auto-fix)
+* `make test` to run tests with coverage
