@@ -36,8 +36,14 @@ test:
 	uv run coverage report
 	uv run coverage html
 
+URL = https://ukrepeater.net/csvcreate4.php
+
+# Fetch to a temporary file and only replace packetlist.csv if it validates
+# (e.g. isn't a Cloudflare challenge page)
 packetlist.csv:
-	curl https://ukrepeater.net/csvcreate4.php > packetlist.csv
+	curl --fail --silent --show-error --location --output $@.tmp $(URL)
+	uv run python3 validate.py $@.tmp || { rm -f $@.tmp; exit 1; }
+	mv $@.tmp $@
 
 packetlist.json: packetlist.csv transform.py Makefile
 	uv run python3 transform.py packetlist.csv packetlist.json
