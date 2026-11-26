@@ -4,13 +4,18 @@ import sys
 
 import maidenhead as mh
 
+from validate import is_header
+
 
 def transform(infile, outfile):
     features = []
 
     with open(infile) as csvfile:
         reader = csv.reader(csvfile)
-        for row in reader:
+        for i, row in enumerate(reader):
+            if i == 0 and is_header(row):
+                continue
+
             callsign = row[0]
             keeper = row[1]
             band = row[2]
