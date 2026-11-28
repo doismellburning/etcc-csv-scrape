@@ -3,7 +3,7 @@ name: Scrape and transform data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "13 * * * *"
+    - cron: "13 4 * * *"
 
 permissions:
   contents: "write"
